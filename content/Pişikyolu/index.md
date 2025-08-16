@@ -1,5 +1,5 @@
 ---
-title: پادکست پیشیک‌یولو
+title: Pişikyolu Podcast
 draft: false
 tags: 
 date: 2024-11-05 14:53
