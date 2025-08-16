@@ -1,5 +1,5 @@
 ---
-title: دربارهٔ من
+title: About
 draft: false
 tags:
   - explorerexclude
