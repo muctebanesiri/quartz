@@ -1,7 +1,7 @@
 ---
-title: ارتباط
+title: Contact
 draft: false
 tags: 
 date: 2024-05-18
 ---
-من بغیر از [یوتیوب](https://youtube.com/@muctebanesiri) و هر از گاهی هم که اینجا رو آپدیت میکنم تو هیچ‌کجای دیگه‌ی اینترنت فعالیتی ندارم. نه شبکه‌های اجتماعی و نه حتی [[خداحافظ کامنت|کامنت های اینجا]] بنابراین اگر نیاز به ارتباط بود ایمیل به آدرس muctebanesiri[at]gmail[dot]com رو ترجیح میدم یعنی تنها جاییکه که چک میکنم و در اولین فرصت ممکن پاسخ می‌دم.
+I don't have any activity on the internet except for my [YouTube](https://youtube.com/@muctebanesiri) and occasionally updating here. So, if you need to get in touch, Please email me at muctebanesiri[at]gmail[dot]com.
