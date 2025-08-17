@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "about.md",
+                "file": "Notes/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "about"
+              "title": "index"
             }
           }
         ]
@@ -170,9 +170,11 @@
   },
   "active": "2f5765ca0eeef4e3",
   "lastOpenFiles": [
-    "Pişikyolu/index.md",
-    "about.md",
     "contact.md",
+    "Notes/خداحافظ کامنت.md",
+    "Notes/Untitled.md",
+    "about.md",
+    "Pişikyolu/index.md",
     "index.md",
     "Public/index.md",
     "law/قانون مدنی.md",
@@ -199,9 +201,7 @@
     "Pişikyolu/دَلی شِیطان دییر روتلا.md",
     "Pişikyolu/حریتین اوستونه نقطه دوشدو.md",
     "Pişikyolu/تاریخ مختصر مشروطه عثمانی.md",
-    "Notes/خداحافظ کامنت.md",
     "Notes/index.md",
-    "Notes/Untitled.md",
     "Literature/ناخواسته زندگی و ناخواسته مرگ.md",
     "Literature/ای نسیم باد گوی آهوی را.md",
     "Literature/index.md",
