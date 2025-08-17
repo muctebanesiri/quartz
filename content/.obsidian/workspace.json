@@ -1,0 +1,214 @@
+{
+  "main": {
+    "id": "1e8f9e926ca18b38",
+    "type": "split",
+    "children": [
+      {
+        "id": "9ee2acf4e8a54d24",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2f5765ca0eeef4e3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pişikyolu/حریتین اوستونه نقطه دوشدو.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "حریتین اوستونه نقطه دوشدو"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7bf78b3fab896c97",
+    "type": "split",
+    "children": [
+      {
+        "id": "aaab07f1f9881388",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6ca8705ad9513b8b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "2b11d0c61e987c83",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "3b28d7e00ec93b45",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c627c524578f716c",
+    "type": "split",
+    "children": [
+      {
+        "id": "bb3d87cfb6fa47e0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8c2cebf815a02abf",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Pişikyolu/تاریخ مختصر مشروطه عثمانی.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for تاریخ مختصر مشروطه عثمانی"
+            }
+          },
+          {
+            "id": "75611cd5288cf0ba",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Pişikyolu/تاریخ مختصر مشروطه عثمانی.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from تاریخ مختصر مشروطه عثمانی"
+            }
+          },
+          {
+            "id": "367cf5b63e569a82",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "3d88e4e8177f5d7a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Pişikyolu/تاریخ مختصر مشروطه عثمانی.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of تاریخ مختصر مشروطه عثمانی"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "2f5765ca0eeef4e3",
+  "lastOpenFiles": [
+    "Pişikyolu/تاریخ مختصر مشروطه عثمانی.md",
+    "Pişikyolu/حریتین اوستونه نقطه دوشدو.md",
+    "Notes/خداحافظ کامنت.md",
+    "Pişikyolu/دَلی شِیطان دییر روتلا.md",
+    "Pişikyolu/عجبشیر فور دامیز.md",
+    "Pişikyolu/index.md",
+    "law/index.md",
+    "contact.md",
+    "about.md",
+    "index.md",
+    "atachment/banner.svg.md",
+    "atachment",
+    "attachment/banner.svg",
+    "Notes/index.md",
+    "Literature/index.md",
+    "attachment/cover_182822.jpeg",
+    "attachment/404.png",
+    "templates/warning orange.md",
+    "templates/warn blue.md",
+    "templates/tip blue.md",
+    "templates/success green.md",
+    "templates/note blue.md",
+    "templates/example purple.md",
+    "templates/danger red.md",
+    "templates/Sample Note.md",
+    "templates/Poem.md",
+    "templates/Image with Caption.md",
+    "templates/English Blockquote.md",
+    "templates/Blockquote Farsi.md",
+    "templates/Article Header.md",
+    "templates",
+    "Literature",
+    "Pişikyolu",
+    "Notes",
+    "law",
+    "attachment/tictactoe-vanilla.html",
+    "attachment/simplex.html",
+    "attachment/predator-prey.xlsx",
+    "attachment/predator-prey.html",
+    "attachment/cover_246067.jpeg"
+  ]
+}
