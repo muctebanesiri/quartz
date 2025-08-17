@@ -13,10 +13,6 @@ export default ((opts?: Options) => {
     const links = opts?.links ?? []
     return (
       <footer class={`${displayClass ?? ""}`}>
-        <p>
-          {i18n(cfg.locale).components.footer.createdWith}{" "}
-            CC-BY-NC
-        </p>
         <ul>
           {Object.entries(links).map(([text, link]) => (
             <li>
