@@ -1,0 +1,9 @@
+name,duration,number,phone_account_id,call_type,formatted_number,sim_display_name,timestamp,cached_number_label,cached_number_type,cached_matched_number
+عوض نصیری,13,+989144085415,1,CallType.outgoing,+98 914 408 5415,Irancell,1748630869779,,2,
+عوض نصیری,14,+989144085415,1,CallType.incoming,+98 914 408 5415,Irancell,1748630829758,,2,
+عوض نصیری,31,+989144085415,1,CallType.outgoing,+98 914 408 5415,Irancell,1748629896081,اصلی,2,+98 914 408 5415
+مامان,68,+989334119045,1,CallType.incoming,+98 933 411 9045,Irancell,1748628253396,,2,+989334119045
+مامان,75,+989334119045,1,CallType.incoming,+98 933 411 9045,Irancell,1748627024497,,2,+989334119045
+,30,+989144165123,1,CallType.incoming,+98 914 416 5123,Irancell,1748608012470,,0,
+سید محمد محمودی ارزیل,1698,+989300364365,1,CallType.incoming,+98 930 036 4365,Irancell,1748535947477,,2,
+مامان,18,09334119045,1,CallType.outgoing,0933 411 9045,Irancell,1748532929121,,2,+989334119045
