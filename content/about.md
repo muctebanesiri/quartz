@@ -5,12 +5,6 @@ tags:
   - explorerexclude
 date: 2024-07-02
 ---
+Hello 👋 I am Mücteba.
 
-سلام 👋 من مجتبام.
-
-
-کل داستان با یک [کانال یوتیوب](https://www.youtube.com/@muctebanesiri) و به تبع اون [[Pişikyolu/index|پادکست پیشیک‌یولو]] شروع شد. 
-همیشه تو ذهنم بود متن موضوعاتی که تو پادکست درباره‌شون حرف میزنم یجایی در دسترس باشه و اینجا بیشتر زادهٔ همین انگیزه‌ست.
-
-
-
+The whole thing began with a [YouTube channel](https://www.youtube.com/@muctebanesiri) and [[Pişikyolu/index|Pişikyolu podcast]]. I needed somewhere to share transcriptions of the episodes and maybe other useful stuff, and here serves that purpose.
