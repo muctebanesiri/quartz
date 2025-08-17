@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pişikyolu/تاریخ مختصر مشروطه عثمانی.md",
+                "file": "Private/test private note.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "تاریخ مختصر مشروطه عثمانی"
+              "title": "test private note"
             }
           }
         ]
@@ -168,8 +168,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2f5765ca0eeef4e3",
+  "active": "6ca8705ad9513b8b",
   "lastOpenFiles": [
+    "templates/Image with Caption.md",
+    "templates/danger red.md",
+    "templates/Blockquote Farsi.md",
+    "templates/Article Header.md",
+    "Pişikyolu/تاریخ مختصر مشروطه عثمانی.md",
     "Pişikyolu/حریتین اوستونه نقطه دوشدو.md",
     "Pişikyolu/دَلی شِیطان دییر روتلا.md",
     "Private/test private note.md",
@@ -178,7 +183,7 @@
     "ParmisData/Backup/parmis-1404-4-17.par",
     "ParmisData/Backup/LastAutoBackUp.par",
     "logger-250531-012453.csv",
-    "Notes/شماره کارت عباس.md",
+    "Private/شماره کارت عباس.md",
     "Notes/Untitled.md",
     "Pictures/CameraShots",
     "Pictures",
@@ -186,7 +191,6 @@
     "ParmisData",
     "Notes/خداحافظ کامنت.md",
     "Private",
-    "Pişikyolu/تاریخ مختصر مشروطه عثمانی.md",
     "Pişikyolu/عجبشیر فور دامیز.md",
     "Pişikyolu/index.md",
     "law/index.md",
@@ -205,9 +209,6 @@
     "templates/success green.md",
     "templates/note blue.md",
     "templates/example purple.md",
-    "templates/danger red.md",
-    "templates/Sample Note.md",
-    "templates/Poem.md",
     "attachment/cover_246067.jpeg"
   ]
 }
