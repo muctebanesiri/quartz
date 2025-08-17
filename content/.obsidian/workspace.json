@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pişikyolu/حریتین اوستونه نقطه دوشدو.md",
+                "file": "Private/test private note.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "حریتین اوستونه نقطه دوشدو"
+              "title": "test private note"
             }
           }
         ]
@@ -170,9 +170,12 @@
   },
   "active": "2f5765ca0eeef4e3",
   "lastOpenFiles": [
-    "Pişikyolu/تاریخ مختصر مشروطه عثمانی.md",
-    "Pişikyolu/حریتین اوستونه نقطه دوشدو.md",
     "Notes/خداحافظ کامنت.md",
+    "Private/test private note.md",
+    "Private",
+    "Untitled Folder",
+    "Pişikyolu/حریتین اوستونه نقطه دوشدو.md",
+    "Pişikyolu/تاریخ مختصر مشروطه عثمانی.md",
     "Pişikyolu/دَلی شِیطان دییر روتلا.md",
     "Pişikyolu/عجبشیر فور دامیز.md",
     "Pişikyolu/index.md",
@@ -199,7 +202,6 @@
     "templates/Image with Caption.md",
     "templates/English Blockquote.md",
     "templates/Blockquote Farsi.md",
-    "templates/Article Header.md",
     "templates",
     "Literature",
     "Pişikyolu",
@@ -207,8 +209,6 @@
     "law",
     "attachment/tictactoe-vanilla.html",
     "attachment/simplex.html",
-    "attachment/predator-prey.xlsx",
-    "attachment/predator-prey.html",
     "attachment/cover_246067.jpeg"
   ]
 }
