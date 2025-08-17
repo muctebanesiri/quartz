@@ -4,9 +4,9 @@ node_modules
 public
 prof
 tsconfig.tsbuildinfo
-Private
 .quartz-cache
 ./obsidian
 private/
 .replit
 replit.nix
+content/templates
