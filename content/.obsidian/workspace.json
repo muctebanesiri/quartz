@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "about.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "about"
             }
           }
         ]
@@ -170,7 +170,10 @@
   },
   "active": "2f5765ca0eeef4e3",
   "lastOpenFiles": [
+    "Pişikyolu/index.md",
+    "about.md",
     "contact.md",
+    "index.md",
     "Public/index.md",
     "law/قانون مدنی.md",
     "law/قانون خدمت وظیفه عمومی.md",
@@ -179,7 +182,6 @@
     "law/جزوه حقوق تطبیقی.md",
     "law/index.md",
     "law",
-    "index.md",
     "attachment/tictactoe-vanilla.html",
     "attachment/simplex.html",
     "attachment/predator-prey.xlsx",
@@ -193,12 +195,10 @@
     "attachment/cover_182822.jpeg",
     "attachment/banner.svg",
     "attachment/404.png",
-    "about.md",
     "Pişikyolu/عجبشیر فور دامیز.md",
     "Pişikyolu/دَلی شِیطان دییر روتلا.md",
     "Pişikyolu/حریتین اوستونه نقطه دوشدو.md",
     "Pişikyolu/تاریخ مختصر مشروطه عثمانی.md",
-    "Pişikyolu/index.md",
     "Notes/خداحافظ کامنت.md",
     "Notes/index.md",
     "Notes/Untitled.md",
