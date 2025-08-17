@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Private/test private note.md",
+                "file": "law/جزوه حقوق تطبیقی.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "test private note"
+              "title": "جزوه حقوق تطبیقی"
             }
           }
         ]
@@ -168,8 +168,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6ca8705ad9513b8b",
+  "active": "2f5765ca0eeef4e3",
   "lastOpenFiles": [
+    "index.md",
+    "youtube.com/@muctebanesiri.md",
+    "youtube.com",
+    "Private/test private note.md",
     "templates/Image with Caption.md",
     "templates/danger red.md",
     "templates/Blockquote Farsi.md",
@@ -177,7 +181,6 @@
     "Pişikyolu/تاریخ مختصر مشروطه عثمانی.md",
     "Pişikyolu/حریتین اوستونه نقطه دوشدو.md",
     "Pişikyolu/دَلی شِیطان دییر روتلا.md",
-    "Private/test private note.md",
     "Openreads-2025_6_30-17_56_26.backup.zip",
     "ParmisData/Backup/dbv5.7.90.par",
     "ParmisData/Backup/parmis-1404-4-17.par",
@@ -190,13 +193,11 @@
     "ParmisData/Backup",
     "ParmisData",
     "Notes/خداحافظ کامنت.md",
-    "Private",
     "Pişikyolu/عجبشیر فور دامیز.md",
     "Pişikyolu/index.md",
     "law/index.md",
     "contact.md",
     "about.md",
-    "index.md",
     "atachment/banner.svg.md",
     "attachment/banner.svg",
     "Notes/index.md",
@@ -208,7 +209,6 @@
     "templates/tip blue.md",
     "templates/success green.md",
     "templates/note blue.md",
-    "templates/example purple.md",
     "attachment/cover_246067.jpeg"
   ]
 }
