@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pisikyolu/عجبشیر فور دامیز.md",
+                "file": "projects/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "عجبشیر فور دامیز"
+              "title": "index"
             }
           }
         ]
@@ -171,14 +171,19 @@
   },
   "active": "2f5765ca0eeef4e3",
   "lastOpenFiles": [
+    "about.md",
+    "projects/index.md",
+    "projects",
+    "contact.md",
+    "pisikyolu/index.md",
+    "Notes/index.md",
+    "pisikyolu/عجبشیر فور دامیز.md",
     "pisikyolu/دَلی شِیطان دییر روتلا.md",
     "pisikyolu/حریتین اوستونه نقطه دوشدو.md",
     "pisikyolu/تاریخ مختصر مشروطه عثمانی.md",
-    "Literature/ناخواسته زندگی و ناخواسته مرگ.md",
-    "Literature/ای نسیم باد گوی آهوی را.md",
-    "Literature/index.md",
-    "pisikyolu/عجبشیر فور دامیز.md",
-    "pisikyolu/index.md",
+    "literature/ناخواسته زندگی و ناخواسته مرگ.md",
+    "literature/ای نسیم باد گوی آهوی را.md",
+    "literature/index.md",
     "pisikyolu",
     "Untitled.md",
     "Pisikyolu/عجبشیر فور دامیز.md",
@@ -193,13 +198,9 @@
     "law/جزوه حقوق مدنی ۶ (عقود معین).md",
     "law/جزوه حقوق ثبت.md",
     "law/جزوه حقوق تطبیقی.md",
-    "about.md",
-    "Notes/index.md",
-    "contact.md",
     "Notes/خداحافظ کامنت.md",
     "Notes/Untitled.md",
     "index.md",
-    "Public/index.md",
     "law",
     "attachment/tictactoe-vanilla.html",
     "attachment/simplex.html",
@@ -207,7 +208,6 @@
     "attachment/predator-prey.html",
     "attachment/object_sort.html",
     "attachment/neural-network.html",
-    "attachment/lora.html",
     "attachment/cover_246067.jpeg",
     "attachment/cover_182822.jpeg",
     "attachment/banner.svg",
