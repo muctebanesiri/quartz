@@ -5,37 +5,23 @@ tags:
   - Есенин
 date: 2025-09-27
 ---
-> Əlvida, ey əziz dostum, əlvida,
-> 
-> Sən hər zəman mənim ürəyimdəsən.
-> 
-> İnan qədərimizdəki bu ayrılıq da
-> 
-> Görüş vəd eləyir bizə yenidən.
->
-> 
-> Əlvida dostum, nə danış, nə əl ver,
-> 
-> Nə qaşlarını çat, nə gözün dolsun.
-> 
-> Ölüm bu dunyada yeni deyildir...
-> 
+> Əlvida, ey əziz dostum, əlvida,<br>
+> Sən hər zəman mənim ürəyimdəsən.<br>
+> İnan qədərimizdəki bu ayrılıq da<br>
+> Görüş vəd eləyir bizə yenidən.<br>
+> <br>
+> Əlvida dostum, nə danış, nə əl ver,<br>
+> Nə qaşlarını çat, nə gözün dolsun.<br>
+> Ölüm bu dunyada yeni deyildir...<br>
 > Yaşamaq bə necə yenilik olsun? 
 
-> اَلویداع، ائی عزیز دوْستوم، اَلویداع،
-> 
-> سن هر زمان منیم اۆرَییمدسن.
-> 
-> اینان قَدَریمیزده‌کی بۇ آیرؽلیق دا
-> 
-> گؤروش وَعد ائلَییر بیزه یئنیدن.
->
->
-> الویداع، نه دانؽش دوْستوم، نه اَل وئر،
-> 
-> نه قاشلارؽنی چات، نه گؤزون دوْلسون.
-> 
-> اولوم بۇ دۇنیادا یئنی دئییلدیر...
-> 
+> اَلویداع، ائی عزیز دوْستوم، اَلویداع،<br>
+> سن هر زمان منیم اۆرَییمدسن.<br>
+> اینان قَدَریمیزده‌کی بۇ آیرؽلیق دا<br>
+> گؤروش وَعد ائلَییر بیزه یئنیدن.<br>
+><br>
+> الویداع، نه دانؽش دوْستوم، نه اَل وئر،<br>
+> نه قاشلارؽنی چات، نه گؤزون دوْلسون.<br>
+> اولوم بۇ دۇنیادا یئنی دئییلدیر...<br>
 > یاشاماق به نئجه یئنیلیک اوْلسون؟
 
