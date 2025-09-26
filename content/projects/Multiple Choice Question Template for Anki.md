@@ -13,9 +13,7 @@ This repository contains simple JavaScript, HTML, and CSS code for front and bac
 ![preview](https://github.com/muctebanesiri/anki-multiple-choise-question-template/assets/108553374/30477205-23b8-408c-a60e-52e3509bd7f1)
 
 ### Watch Video Tutorial on YouTube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xgRmOmN_gjE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-![video tutorial](https://img.youtube.com/vi/xgRmOmN_gjE/0.jpg)](https://www.youtube.com/watch?v=xgRmOmN_gjE)
+<iframe width="1000" height="1000" src="https://www.youtube.com/embed/xgRmOmN_gjE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ###  Instructions for Creating Cards
 
