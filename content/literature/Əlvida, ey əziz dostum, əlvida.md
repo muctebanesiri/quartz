@@ -5,7 +5,7 @@ tags:
   - Есенин
 date: 2025-09-27
 ---
-> [!example] Əlvida, ey əziz dostum, əlvida,
+> [!example] ‎ 
 > Əlvida, ey əziz dostum, əlvida,  <br>
 > Sən hər zəman mənim ürəyimdəsən.  <br>
 > İnan qədərimizdəki bu ayrılıq da  <br>
@@ -17,7 +17,7 @@ date: 2025-09-27
 > Yaşamaq bə necə yenilik olsun?<br>
 
 
-> [!example] اَلویداع، ائی عزیز دوْستوم، اَلویداع،  
+> [!example] ‎ 
 > اَلویداع، ائی عزیز دوْستوم، اَلویداع،<br>
 > سن هر زمان منیم اۆرَییمدسن.  <br>
 > اینان قَدَریمیزده‌کی بۇ آیرؽلیق دا  <br>
