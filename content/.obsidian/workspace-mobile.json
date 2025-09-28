@@ -28,8 +28,8 @@
               "type": "markdown",
               "state": {
                 "file": "projects/vahid-font.md",
-                "mode": "source",
-                "source": false
+                "mode": "preview",
+                "source": true
               },
               "icon": "lucide-file",
               "title": "vahid-font"

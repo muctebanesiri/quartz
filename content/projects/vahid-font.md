@@ -43,7 +43,7 @@ For a live demo, check out the [Vahid Font Demo Page](https://your-username.gith
         git clone https://github.com/muctebanesiri/vahid-font.git
         ```
         
-    - Alternatively, download `Vahid.otf` from the [Releases](https://github.com/your-username/your-repo/releases) page.
+    - Alternatively, download `Vahid.otf` from the [Releases](https://github.com/muctebanesiri/vahid-font/releases) page.
 1. **Install on Your System**:
     
     - **Windows**: Right-click `VahidFont-Regular.otf` and select "Install".
