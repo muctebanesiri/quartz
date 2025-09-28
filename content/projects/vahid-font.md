@@ -1,5 +1,5 @@
 ---
-title: vahid-font
+title: vahid-font وحید-فونت
 draft: false
 tags:
   - vahid
