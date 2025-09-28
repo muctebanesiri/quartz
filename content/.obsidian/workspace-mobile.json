@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "literature/ابر جهان.md",
+                "file": "literature/Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ابر جهان"
+              "title": "Untitled"
             }
           }
         ],
@@ -171,6 +171,7 @@
   },
   "active": "c28aa55e78da32bb",
   "lastOpenFiles": [
+    "literature/ابر جهان.md",
     "literature/ای نسیم باد گوی آهوی را.md",
     "about.md",
     "contact.md",
