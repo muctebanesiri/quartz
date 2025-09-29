@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "projects/vahid-font.md",
-                "mode": "preview",
+                "file": "literature/ابر جهان.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "vahid-font"
+              "title": "ابر جهان"
             }
           }
         ],
@@ -171,6 +171,7 @@
   },
   "active": "c28aa55e78da32bb",
   "lastOpenFiles": [
+    "projects/vahid-font.md",
     "literature/ابر جهان.md",
     "literature/Untitled.md",
     "literature/ای نسیم باد گوی آهوی را.md",
