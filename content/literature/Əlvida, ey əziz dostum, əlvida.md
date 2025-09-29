@@ -9,7 +9,7 @@ date: 2025-09-27
 > Əlvida, ey əziz dostum, əlvida,  <br>
 > Sən hər zəman mənim ürəyimdəsən.  <br>
 > İnan qədərimizdəki bu ayrılıq da  <br>
-> Görüş vəd eləyir bizə yenidən.  <br>
+> Görüş vəd eliyir bizə yenidən.  <br>
 > <br>
 > Əlvida dostum, nə danış, nə əl ver,  <br>
 > Nə qaşlarını çat, nə gözün dolsun.  <br>
@@ -25,7 +25,7 @@ date: 2025-09-27
 >   <br>
 > الویداع دوْستوم، نه دانؽش، نه اَل وئر  <br>
 > نه قاشلارؽنی چات، نه گؤزون دوْلسون.  <br>
-> اولوم بۇ دُنیادا یئنی دئییلدیر...  <br>
+> اؤلؤم بۇ دُنیادا یئنی دئییلدیر...  <br>
 > یاشاماق به نئجه یئنیلیک اوْلسون؟<br>
 
 

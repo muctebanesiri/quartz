@@ -1,7 +1,0 @@
-{
-  "font_folder": ".obsidian/fonts/",
-  "font": "Ravi.ttf",
-  "force_mode": false,
-  "custom_css_mode": true,
-  "custom_css": ".vazirmatn * {\nfont-family: vazirmatn !important;\n}"
-}

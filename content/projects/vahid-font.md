@@ -1,5 +1,5 @@
 ---
-title: vahid-font
+title: vahid-font وحید-فونت
 draft: false
 tags:
   - vahid
@@ -19,7 +19,7 @@ Vahid Font is a multilingual typeface for my daily personal use, supporting most
 - **Multilingual Support**: Covers English, Turkish, Ottoman, Azerbaijani, Persian, Arabic, and other Latin and Arabic-based scripts.
 - **Customized Glyphs**: Tailored modifications for Turkish and Azerbaijani characters (e.g. İ, ş, ğ and ə) and Ottoman script.
 - **Dual-Script Design**: Combines the Ruqaa for Arabic scripts with AMS Euler for Latin scripts.
-- **OpenType Format**: Provided as `Vahid.otf` for broad compatibility across platforms.
+- Provided as `Vahid.ttf` and `vahid.sfd` for broad compatibility across platforms.
 
 ## Preview
 
@@ -43,7 +43,7 @@ For a live demo, check out the [Vahid Font Demo Page](https://your-username.gith
         git clone https://github.com/muctebanesiri/vahid-font.git
         ```
         
-    - Alternatively, download `Vahid.otf` from the [Releases](https://github.com/your-username/your-repo/releases) page.
+    - Alternatively, download `Vahid.otf` from the [Releases](https://github.com/muctebanesiri/vahid-font/releases) page.
 1. **Install on Your System**:
     
     - **Windows**: Right-click `VahidFont-Regular.otf` and select "Install".

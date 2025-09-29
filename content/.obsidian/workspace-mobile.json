@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "source": false
+                "file": "literature/ابر جهان.md",
+                "mode": "preview",
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "ابر جهان"
             }
           }
         ],
@@ -160,6 +160,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -170,6 +171,13 @@
   },
   "active": "c28aa55e78da32bb",
   "lastOpenFiles": [
+    "projects/vahid-font.md",
+    "literature/ابر جهان.md",
+    "literature/Untitled.md",
+    "literature/ای نسیم باد گوی آهوی را.md",
+    "about.md",
+    "contact.md",
+    "index.md",
     "Pişikyolu/حریتین اوستونه نقطه دوشدو.md",
     "Untitled.md",
     "Pişikyolu/عجبشیر فور دامیز.md",
