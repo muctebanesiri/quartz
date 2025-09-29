@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "literature/بیزدن اشاغیلار دا چوخوندان دی یوخاری.md",
-                "mode": "source",
+                "file": "literature/ابر جهان.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "بیزدن اشاغیلار دا چوخوندان دی یوخاری"
+              "title": "ابر جهان"
             }
           }
         ],
@@ -113,7 +113,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "literature/بیزدن اشاغیلار دا چوخوندان دی یوخاری.md",
+            "file": "literature/ابر جهان.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -171,8 +171,8 @@
   },
   "active": "c28aa55e78da32bb",
   "lastOpenFiles": [
-    "literature/Untitled.md",
     "literature/بیزدن اشاغیلار دا چوخوندان دی یوخاری.md",
+    "literature/Untitled.md",
     "literature/ابر جهان.md",
     "literature/ای نسیم باد گوی آهوی را.md",
     "projects/vahid-font.md",
