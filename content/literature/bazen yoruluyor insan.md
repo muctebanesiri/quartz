@@ -6,6 +6,6 @@ kusuyor varlığını<br>
 bazen özlüyor insan <br>
 ölümü<br>
 ve cesurca korku duyuyor<br>
-her şeyin yokluğa varacaığından<br>
+her şeyin yokluğa varacağından<br>
 
 
