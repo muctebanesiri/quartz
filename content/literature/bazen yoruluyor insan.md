@@ -1,11 +1,11 @@
-Bazen yoruluyor insan
-varolmaktan
-küsüyor barışmasızcasına hayata
-kusuyor varlığını
-
-bazen özlüyor insan 
-ölümü
-ve cesurca korku duyuyor
-her şeyin yokluğa varacaığından
+Bazen yoruluyor insan<br>
+varolmaktan<br>
+küsüyor barışmasızcasına hayata<br>
+kusuyor varlığını<br>
+<br>
+bazen özlüyor insan <br>
+ölümü<br>
+ve cesurca korku duyuyor<br>
+her şeyin yokluğa varacaığından<br>
 
 
