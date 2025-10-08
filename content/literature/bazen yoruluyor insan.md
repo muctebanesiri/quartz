@@ -1,11 +1,11 @@
 Bazen yoruluyor insan
-Varolmaktan
-Küsüyor barışmasızcasına hayata
-Kusuyor varlığını
-Varolmaktan bıkmışcasına 
-Özlüyor yokluğu
-Varlığın yükü mü daha ağır yokluğun mu
+varolmaktan
+küsüyor barışmasızcasına hayata
+kusuyor varlığını
+
+bazen özlüyor insan 
+ölümü
+ve cesurca korku duyuyor
+her şeyin yokluğa varacaığından
 
 
-Yaşam yükü yok edir insanı
-Yokluğun bi derdi olabilir mi?
