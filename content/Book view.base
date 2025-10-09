@@ -3,7 +3,7 @@ views:
     name: Book view
     filters:
       and:
-        - file.folder == "Books/Books"
+        - file.folder == "Books"
     order:
       - title
       - author

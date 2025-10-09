@@ -27,7 +27,7 @@
             "state": {
               "type": "bases",
               "state": {
-                "file": "Books/Book view.base",
+                "file": "Book view.base",
                 "viewName": "Book view"
               },
               "icon": "lucide-layout-grid",
@@ -186,10 +186,10 @@
   },
   "active": "6ca8705ad9513b8b",
   "lastOpenFiles": [
-    "Books/Books/The 48 Laws Of Power - Robert Greene.md",
-    "Books/Book view.base",
-    "Books/Books/A Short History of Nearly Everything - Bill Bryson.md",
-    "Books/Books/Authentic Happiness - Martin Seligman.md",
+    "Books/The 48 Laws Of Power - Robert Greene.md",
+    "Book view.base",
+    "Books/A Short History of Nearly Everything - Bill Bryson.md",
+    "Books/Authentic Happiness - Martin Seligman.md",
     "literature/ناخواسته زندگی و ناخواسته مرگ.md",
     "literature/Əlvida, ey əziz dostum, əlvida.md",
     "literature/bazen yoruluyor insan.md",
