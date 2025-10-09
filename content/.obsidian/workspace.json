@@ -13,29 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "law/جزوه حقوق تطبیقی.md",
+                "file": "literature/ناخواسته زندگی و ناخواسته مرگ.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "جزوه حقوق تطبیقی"
-            }
-          },
-          {
-            "id": "d948d59bbeba55a1",
-            "type": "leaf",
-            "state": {
-              "type": "bases",
-              "state": {
-                "file": "Book view.base",
-                "viewName": "Book view"
-              },
-              "icon": "lucide-layout-grid",
-              "title": "Book view"
+              "title": "ناخواسته زندگی و ناخواسته مرگ"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -181,21 +167,28 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-book-search-plugin:Create new book note": false
+      "obsidian-book-search-plugin:Create new book note": false,
+      "obsidian-media-db-plugin:Add new Media DB entry": false
     }
   },
-  "active": "6ca8705ad9513b8b",
+  "active": "2f5765ca0eeef4e3",
   "lastOpenFiles": [
-    "Books/The 48 Laws Of Power - Robert Greene.md",
     "Book view.base",
-    "Books/A Short History of Nearly Everything - Bill Bryson.md",
-    "Books/Authentic Happiness - Martin Seligman.md",
     "literature/ناخواسته زندگی و ناخواسته مرگ.md",
+    "Book view 1.base",
+    "law/جزوه حقوق تطبیقی.md",
+    "Movies/The Dark Knight.md",
+    "Movies/Untitled.md",
+    "Media DB/wiki/The Dark Knight.md",
+    "Media DB/wiki",
+    "Media DB",
+    "Movies",
+    "Books/A Short History of Nearly Everything - Bill Bryson.md",
+    "Books/The 48 Laws Of Power - Robert Greene.md",
+    "Books/Authentic Happiness - Martin Seligman.md",
     "literature/Əlvida, ey əziz dostum, əlvida.md",
     "literature/bazen yoruluyor insan.md",
-    "Untitled.md",
     "index.md",
-    "law/جزوه حقوق تطبیقی.md",
     "literature/Untitled.md",
     "literature/index.md",
     "literature/ابر جهان.md",
@@ -211,18 +204,11 @@
     "contact.md",
     "Notes/index.md",
     "pisikyolu/عجبشیر فور دامیز.md",
-    "pisikyolu/دَلی شِیطان دییر روتلا.md",
-    "pisikyolu/تاریخ مختصر مشروطه عثمانی.md",
     "pisikyolu",
-    "Pisikyolu/عجبشیر فور دامیز.md",
     "Pisikyolu",
     "attachment/404.png",
     "law",
     "attachment/tictactoe-vanilla.html",
-    "attachment/simplex.html",
-    "attachment/predator-prey.xlsx",
-    "attachment/predator-prey.html",
-    "attachment/object_sort.html",
     "attachment/cover_246067.jpeg",
     "attachment/cover_182822.jpeg",
     "attachment/banner.svg",
