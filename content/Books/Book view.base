@@ -1,0 +1,13 @@
+views:
+  - type: cards
+    name: Book view
+    filters:
+      and:
+        - file.folder == "Books/Books"
+    order:
+      - title
+      - author
+    image: note.coverUrl
+    imageFit: ""
+    cardSize: 160
+    imageAspectRatio: 1.45
