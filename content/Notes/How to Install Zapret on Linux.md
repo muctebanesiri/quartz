@@ -38,9 +38,29 @@ Zapret only bypasses DPI restrictions. But it does not set up a DNS for us. We n
 We've used Yandex DNS here with Russian users in mind. However, other provider alternatives are also available if you prefer.
 
 - [Cloudflare DNS](https://keift.gitbook.io/blog/linux/dot-with-systemd-resolved#alternative-cloudflare-dns-recommended)
+```shell
+# Enable and start Systemd-Resolved
+sudo systemctl enable systemd-resolved
+sudo systemctl start systemd-resolved
+
+# Rewrite the /etc/systemd/resolved.conf file and specify that we will use Cloudflare DNS in it
+sudo tee /etc/systemd/resolved.conf > /dev/null << EOF
+[Resolve]
+DNS=1.1.1.1 1.0.0.1 2606:4700:4700::1111 2606:4700:4700::1001
+DNSOverTLS=yes
+EOF
+
+# Make /etc/resolv.conf a symlink to Systemd-Resolved file
+sudo ln -sf /run/systemd/resolve/stub-resolv.conf /etc/resolv.conf
+
+# Restart Systemd-Resolved for the changes to take effect
+sudo systemctl restart systemd-resolved
+```
 - [Google DNS](https://keift.gitbook.io/blog/linux/dot-with-systemd-resolved#alternative-google-dns)
 - [Yandex DNS](https://keift.gitbook.io/blog/linux/dot-with-systemd-resolved#alternative-yandex-dns)
 - [Quad9](https://keift.gitbook.io/blog/linux/dot-with-systemd-resolved#alternative-quad9)
+
+
 
 If your distribution does not include Systemd, you will need to do this using [Stubby](https://keift.gitbook.io/blog/linux/install-stubby).
 
