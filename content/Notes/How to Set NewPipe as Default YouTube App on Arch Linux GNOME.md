@@ -6,7 +6,7 @@ tags:
   - Gnome
   - Newpipe
   - Youtube
-icon:
+icon: lock-keyhole-open
 description:
 image: attachment/newpipe.png
 ---
