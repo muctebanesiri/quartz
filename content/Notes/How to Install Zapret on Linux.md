@@ -1,6 +1,10 @@
 ---
 description: Install Zapret to bypass DPI barriers.
 icon: lock-keyhole-open
+tags:
+  - Tutorial
+  - Linux
+  - Zapret
 ---
 
 ## 1. Update Hosts content
