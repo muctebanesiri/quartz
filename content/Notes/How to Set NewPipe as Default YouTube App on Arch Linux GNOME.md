@@ -26,7 +26,7 @@ This guide helps you configure NewPipe (a privacy-friendly YouTube client) to au
 
 ## Step 1: Test NewPipe URL Handling
 Verify NewPipe can open videos from a URL (this uses `gtk-launch` for Flatpak compatibility):
-```
+```bash
 gtk-launch net.newpipe.NewPipe 'https://youtu.be/dQw4w9WgXcQ'
 ```
 - It should launch NewPipe and play the video (Rick Astley—classic test!).
@@ -36,7 +36,7 @@ gtk-launch net.newpipe.NewPipe 'https://youtu.be/dQw4w9WgXcQ'
 This script checks if a URL is YouTube-related and launches NewPipe (or your browser otherwise). Save it to `~/.local/bin/` (create the folder if needed: `mkdir -p ~/.local/bin`).
 
 Run:
-```
+```bash
 cat > ~/.local/bin/youtube-handler.sh << 'EOF'
 #!/bin/bash
 url="$1" 2>/dev/null  # Suppress extra noise
@@ -51,11 +51,11 @@ fi
 EOF
 ```
 Make it executable:
-```
+```bash
 chmod +x ~/.local/bin/youtube-handler.sh
 ```
 Test it:
-```
+```bash
 ~/.local/bin/youtube-handler.sh 'https://youtu.be/dQw4w9WgXcQ'
 ```
 - YouTube → NewPipe video. Non-YouTube (e.g., `https://example.com`) → Firefox.
@@ -66,7 +66,7 @@ Test it:
 This registers the script as a "browser" app that GNOME recognizes for web links.
 
 Run:
-```
+```bash
 cat > ~/.local/share/applications/youtube-handler.desktop << 'EOF'
 [Desktop Entry]
 Name=YouTube Handler
@@ -81,7 +81,7 @@ NoDisplay=true  # Hides from app menu
 EOF
 ```
 Validate it (optional):
-```
+```bash
 desktop-file-validate ~/.local/share/applications/youtube-handler.desktop
 ```
 - No output = good.
@@ -90,19 +90,19 @@ desktop-file-validate ~/.local/share/applications/youtube-handler.desktop
 Register the handler for web links. Run these in order:
 
 1. **Via xdg-mime** (basic associations):
-   ```
+   ```bash
    xdg-mime default youtube-handler.desktop text/html application/xhtml+xml x-scheme-handler/http x-scheme-handler/https
    ```
 
 2. **Via xdg-settings** (GNOME-specific):
-   ```
+   ```bash
    xdg-settings set default-web-browser youtube-handler.desktop
    xdg-settings set default-url-scheme-handler http youtube-handler.desktop
    xdg-settings set default-url-scheme-handler https youtube-handler.desktop
    ```
 
 3. **Via GVFS** (GNOME's MIME backend—ensures portal compliance):
-   ```
+   ```bash
    gvfs-mime set x-scheme-handler/http youtube-handler.desktop
    gvfs-mime set x-scheme-handler/https youtube-handler.desktop
    gvfs-mime set text/html youtube-handler.desktop
@@ -110,7 +110,7 @@ Register the handler for web links. Run these in order:
    ```
 
 4. **Lock in MIME config file** (for persistence across reboots):
-   ```
+   ```bash
    cat > ~/.config/mimeapps.list << 'EOF'
    [Default Applications]
    text/html=youtube-handler.desktop
@@ -131,14 +131,14 @@ Verify:
 xdg-settings get default-web-browser  # Should show: youtube-handler.desktop
 xdg-mime query default x-scheme-handler/https  # Should show: youtube-handler.desktop
 gvfs-mime-info x-scheme-handler/https | grep youtube-handler  # Should list it
-```
+```bash
 
 ## Step 5: Refresh and Test
 Apply changes:
 ```
 update-desktop-database ~/.local/share/applications/
 systemctl --user restart xdg-desktop-portal{,-gnome,-gtk}
-```
+```bash
 - Optional: Restart GNOME Shell (Alt+F2 → type `r` → Enter) or log out/in.
 
 Test:
