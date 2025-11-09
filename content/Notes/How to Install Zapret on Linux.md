@@ -1,5 +1,5 @@
 ---
-title: How to Install Zapret on Linux to Bypass DPI Barriers | Complete Step-by-Step Guide
+title: How to Install Zapret on Linux to Bypass DPI Barriers
 description: Step-by-step tutorial to install Zapret on Debian, Ubuntu, Fedora, Arch Linux and more. Bypass ISP DPI censorship using nftables, systemd-resolved DNS, and blockcheck for optimal settings. Includes uninstall tips.
 keywords: Zapret installation, DPI bypass Linux, nftables firewall, systemd-resolved DNS, blockcheck DPI, bypass censorship Linux, Zapret tutorial, IPv6 support, Yandex DNS, Cloudflare DNS
 draft: false
@@ -18,6 +18,9 @@ date: 2025-11-10
 
 > [!example] Credit
 > This is a copy of [the original version](https://keift.gitbook.io/blog/linux/install-zapret) edited for my personal reference. All credits go to [Fırat Özden](https://github.com/fir4tozden)
+
+> [!danger] Disclaimer
+> This article is for educational purposes only. Use it only for security training, research, or other legitimate defensive purposes. Improper use can result in legal consequences. I hereby disclaim all liability for any misuse or consequences arising from this information.
 
 
 ## 1. Update Hosts content
