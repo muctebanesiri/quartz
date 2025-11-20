@@ -1,6 +1,6 @@
 ---
 title: Bazen Yoruluyor İnsan, varolmaktan
-description: Modern Türkçe şiir Varolmaktan yorulma, hayata karşı isyankâr gülüş ve yokluğa dair cesur korku. Yaşar Kemal'in yalnızlık temalı şiirinden ilhamla yazıdığım introspektif dizeler.
+description: Bazen yoruluyor insanvarolmaktanküsüyor barışmasızcasına hayatakusuyor varlığınıbazen özlüyor insanölümüve cesurca korku duyuyorher şeyin yokluğa varacağından
 keywords: şiir, varoluş yorgunluğu, ölüm özlemi, yalnızlık Yaşar-Kemal nihilizm
 draft: false
 tags:
