@@ -1,0 +1,15 @@
+---
+title: Ajabshir For Dummies | عجبشیر فور دامیز
+description: عجبشیر فور دامیز پادکست
+keywords: عجبشیر فور دامیز, پادکست,
+featured: true
+draft: false
+tags:
+  - پادکست
+  - عجبشیر
+  - خدمت-سربازی
+  - ارتش
+  - نیروی-زمینی
+date: 2025-02-11
+---
+<iframe height="175" width="100%" title="عجبشیر فور دامیز پادکست | مرور بهترین متن برای کارهای بزرگ - Apple Podcasts" src="https://embed.podcasts.apple.com/us/podcast/%D8%B9%D8%AC%D8%A8%D8%B4%DB%8C%D8%B1-%D9%81%D9%88%D8%B1-%D8%AF%D8%A7%D9%85%DB%8C%D8%B2/id1777842418?i=1000717958917&amp;itscg=30200&amp;itsct=podcast_box_player&amp;ls=1&amp;mttnsubad=1000717958917&amp;theme=auto" id="embedPlayer" style="border:0;border-radius:12px;width:100%;height:175px;max-width:1000px" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation-by-user-activation" allow="autoplay *; encrypted-media *; clipboard-write"></iframe>
