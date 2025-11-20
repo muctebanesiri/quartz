@@ -1,0 +1,30 @@
+---
+title: دَلی شِیطان دییر روتلا
+draft: false
+tags:
+  - پادکست
+date: 2024-12-28
+cssclasses:
+  - vazirmatn
+---
+<iframe height="175" width="100%" title="Media player" src="https://embed.podcasts.apple.com/us/podcast/%D8%AF-%D9%84%DB%8C-%D8%B4-%DB%8C%D8%B7%D8%A7%D9%86-%D8%AF%DB%8C%DB%8C%D8%B1-%D8%B1%D9%88%D8%AA%D9%84%D8%A7/id1777842418?i=1000696811869&amp;itscg=30200&amp;itsct=podcast_box_player&amp;ls=1&amp;mttnsubad=1000696811869&amp;theme=auto" id="embedPlayer" style="border: 0px; border-radius: 12px; width: 100%; height: 175px; max-width: 1000px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation-by-user-activation" allow="autoplay *; encrypted-media *; clipboard-write"></iframe>
+
+بو بولومده روتا گوره دانیشاجام. اگر لینوکس ایشلدیبسیز بیلیسیز کی لینوکسدا سوپریوزر یا روت اکسس دیه بی حالت وار کی اوندا دا سیز تقریبا هر ایش گوره بیلرسیز: سیستم فایلاری اوخویوب دییشماخ، یا هر فایلی اوخویوب یازماخ اولار. 
+سوپریوزر و روت ایکیسی ده بی معنیه گلیر.
+
+روت الماخ یاخچلیخلاری
+- مالی صرفه‌جویی
+- او ای ام محدودیتلری آرادان آپارماخ. (oem oeiginal equipmet manufacturer)
+- طول عمر موبایل چوخالدیلیر
+- او ای ام عیبلرین دوزلتماخ
+- توانایی چوخالتماخ
+- اورکلاکینگ
+- کاستمایزیشن
+- دیتا بکآپ
+- بلوتویرلری سیلماخ
+- کاستوم رام نصب الماخ
+- ادبلاک
+
+قبل 2011 و 2012 رفع اولان ایرادلار
+- هاتسپات الماخ
+- اسکرینشات سالماخ
