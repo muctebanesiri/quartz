@@ -12,9 +12,9 @@ tags:
   - ملانصرالدین
 date: 2025-11-18
 ---
-# Transkript: Harda Müsəlman Görürəm Qorxuram (Pişikyolu Podkastı Epizod 4)
+<iframe height="175" width="100%" title="Media player" src="https://embed.podcasts.apple.com/us/podcast/harda-m%C3%BCs%C9%99lman-g%C3%B6r%C3%BCr%C9%99m-qorxuram-%D9%87%D8%A7%D8%B1%D8%AF%D8%A7-%D9%85%D8%B3%D9%84%D9%85%D8%A7%D9%86-%DA%AF%D8%A4%D8%B1%D8%A4%D8%B1%D9%85/id1777842418?i=1000737117267&amp;itscg=30200&amp;itsct=podcast_box_player&amp;ls=1&amp;mttnsubad=1000737117267&amp;theme=auto" id="embedPlayer" style="border:0;border-radius:12px;width:100%;height:175px;max-width:1000px" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation-by-user-activation" allow="autoplay *; encrypted-media *; clipboard-write"></iframe>
 
-<iframe height="175" width="100%" title="Media player" src="[https://embed.podcasts.apple.com/us/podcast/%D9%87%D8%A7%D8%B1%D8%AF%D8%A7-%D9%85%D8%B3%D9%84%D9%85%D8%A7%D9%86-%DA%AF%D8%A4%D8%B1%D8%A4%D8%B1%D9%85-%D9%82%D9%88%D8%B1%D8%AE%D9%88%D8%B1%D8%A7%D9%85-%D9%BE%DB%8C%D8%B4%DB%8C%DA%A9-%DB%8C%D9%88%D9%84%D9%88-%D9%BE%D8%A7%D8%AF%DA%A9%D8%B3%D8%AA-4/id1777842418?i=1000737117267&amp;itscg=30200&amp;itsct=podcast_box_player&amp;ls=1&amp;mttnsubad=1000737117267&amp;theme=auto](https://embed.podcasts.apple.com/us/podcast/%D9%87%D8%A7%D8%B1%D8%AF%D8%A7-%D9%85%D8%B3%D9%84%D9%85%D8%A7%D9%86-%DA%AF%D8%A4%D8%B1%D8%A4%D8%B1%D9%85-%D9%82%D9%88%D8%B1%D8%AE%D9%88%D8%B1%D8%A7%D9%85-%D9%BE%DB%8C%D8%B4%DB%8C%DA%A9-%DB%8C%D9%88%D9%84%D9%88-%D9%BE%D8%A7%D8%AF%DA%A9%D8%B3%D8%AA-4/id1777842418?i=1000737117267&itscg=30200&itsct=podcast_box_player&ls=1&mttnsubad=1000737117267&theme=auto)" id="embedPlayer" style="border: 0px; border-radius: 12px; width: 100%; height: 175px; max-width: 1000px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation-by-user-activation" allow="autoplay *; encrypted-media *; clipboard-write"></iframe>
+# Transkript: Harda Müsəlman Görürəm Qorxuram (Pişikyolu Podkastı Epizod 4)
 
 **Mövzu:** Mirzə Ələkbər Sabir
 
