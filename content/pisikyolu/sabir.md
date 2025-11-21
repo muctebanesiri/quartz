@@ -1,6 +1,6 @@
 ---
 title: Harda Müsəlman Görürəm Qorxuram | هاردا مسلمان گؤرؤرم قورخورام
-description: هادرا مسلمان گؤرؤرم قورخورام
+description: هادرا مسلمان گؤرؤرم قورخورام. Bu epizodda, ki "Pişikyolu" podkastının dördüncü epizodudur, Mirzə Ələkbər Sabirə görə bir az danışacam. Əlbəttə, danışmaqdan çox şeirlərini oxuyacam.
 keywords: میرزا علی اکبر صابر , صابر,
 featured: true
 draft: false
