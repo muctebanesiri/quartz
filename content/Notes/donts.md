@@ -5,6 +5,7 @@ created: 2025-11-21
 description: "This page is under construction.I’ll come back to it when I have time.It’s published, but it might not be a representative sample of what I want to say.These are things I don’t do.Some people want advice—positive advice of things they should add to their life.I like negative advice: things to refrain from that by refraining you can make things better for yourself.Negative advise is better because:"
 tags:
   - clippings
+draft: true
 ---
 
 > [!example] Disclaimer
