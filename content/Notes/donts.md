@@ -8,7 +8,7 @@ tags:
 ---
 
 > [!example] Disclaimer
-> This I saw on Luke Smith's site and really liked the idea. I've learnt a lot from him and thought this one I should too. I intend to have minimal changes in the text since the mere text itself is well written.
+> I saw this on Luke Smith's site and really liked the idea. I've learnt a lot from him and thought I should include this one too. I intend to make minimal changes, since the text itself is already well written.
 > All credits go to him.
 
 
@@ -45,24 +45,26 @@ For everyone else, please continue reading…
 
 ## Media
 
+- I don’t consume media tailored by an algorithm.
 - I don’t own or watch a TV.
-- I don’t watch television shows or films on the computer.
-- I don’t have any type of social media.
-- ~~I don’t use a cell phone for anything other than messaging and calling.~~
-- ~~I don’t log into any account on my phone (i.e. no bank apps or other things).~~
-- I don’t watch pornography. It’s a shame I have to put this as an exceptional, but unfortunately it is very common among men.
-- I don’t listen to music or radio or anything else while driving.
+- I don't follow the 24-hour news cycle.
+- I don’t watch television shows or films.
+- I don’t consume pornography.
+- I don’t use a cell phone for anything other than calls and texts. All other notifications are permanently disabled.
+- I don’t listen to music or radio or anything else.
 
 ## Computing
 
-- ~~I don’t use anything other than free and open source (libre) software (since about 2015).~~
+- I don’t use anything other than libre software.
 - I don’t play video games.
 
+## Finance
+
+- I don’t buy things I cannot repair.
+- I don’t do "retail therapy."
 ## Diet
 
-- I don’t ever eat PUFAs/unstable oils: vegetable oils, canola oil, etc. (Use coconut oil, or butter instead.)
-- I don’t drink soft drinks (last Coke in I think 2014, but before that it had been several years.)
-- I don’t eat animal products on Wednesdays and Fridays (and other fasting days according to the Orthodox Church).
+- I don’t drink soft drinks
 - I don’t do drugs of any sort.
 
 
@@ -71,9 +73,6 @@ For everyone else, please continue reading…
 
 ## Health
 
-- I don’t use deodorant (since 2018 or so). I sometimes use a small wetted bit of baking soda if I plan to sweat in public, but on most days even when I will be laboring in heat, I don’t wear deodorant. “Based” people can explain the chemistry behind why but you will smell less offensive if you stop blocking your pores from disposing of their natural waste with chemicals and heavy metals in deodorant.
-- I don’t use soap every time I shower. Most of the time I rinse only unless I want to eliminate body odor after intense work.
-- I don’t use shampoo or any of this goo body wash stuff they sell now.
 - I don’t do weight lifting. I’m probably wrong about this, but it has never been a habit. I do normally get natural weight exercise working on my property, but I don’t think as much as I’d like. Either way, I am not a big fan of the idea of contrived weight lifting. I do strongly recommend the book “Convict Conditioning” for naturalistic muscle-training and kalesthenics.
 
 ## Things I used to not do.
