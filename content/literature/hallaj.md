@@ -10,7 +10,7 @@ tags:
   - رمل
 date: 2024-06-16
 cssclasses:
-  - dir="rtl"
+  - <div dir="rtl">
 ---
 <span style="direction: rtl; text-align: right; display: block;">
 
