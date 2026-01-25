@@ -9,8 +9,10 @@ tags:
   - حلاج
   - رمل
 date: 2024-06-16
+cssclasses:
+  - '<span style="direction: rtl; text-align: right; display: block;">'
 ---
-<span style="direction: rtl; text-align: right; display: block;">
+
 
 ![ای نسیم باد، گوی آهوی را | کاور شعر حلاج و ترجمه فارسی](cover_182822.jpeg)
 
