@@ -10,6 +10,8 @@ tags:
   - خیام
 date: 2025-04-09
 ---
+<span style="direction: rtl; text-align: right; display: block;">
+
 ![ناخواسته زندگی و ناخواسته مرگ | کاور رباعی الهام‌گرفته از فرناندو پسوآ](attachment/cover_246067.jpeg)
 > [!example] ‎
 > بیهوده بخاستیم و افتیم چو برگ<br>
@@ -40,3 +42,5 @@ date: 2025-04-09
 
 [^1]: برای تفضیل ن. ک. به
 Boscaglia, Fabrizio. “Pessoa, Borges and Khayyam.”
+
+</span>
