@@ -9,6 +9,7 @@ tags:
 date: 2026-01-15
 ---
 دقیقا ۷ گون بوندان قاباق حدودا ساعت ۲۰:۲۵ اینترنتی باغلادیلار و مشخص دییل نچه گون ده باغلی قالاجاق.
+
 ![[ping.png]]
 
 <span style="direction: rtl; text-align: right; display: block;">
