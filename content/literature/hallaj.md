@@ -11,7 +11,7 @@ date: 2024-06-16
 ---
 <span style="direction: rtl; text-align: right; display: block;">
 
-![ای نسیم باد، گوی آهوی را | کاور شعر حلاج و ترجمه فارسی](cover_182822.jpeg)
+![ای نسیم باد، گوی آهوی را | کاور شعر حلاج و ترجمه فارسی](hallaj.jpeg)
 
 
 > [!example] ‎ 
