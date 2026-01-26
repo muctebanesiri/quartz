@@ -26,6 +26,8 @@ date: 2024-06-16
 ***
 چند وقت پیش اتفاقی یه موزیک به دستم رسید. سکون از عبدالرحمن محمد. دلنشین بود ولی شعرش بیشتر توجهمو جلب کرد بعدش فهمیدم شعرش از حلاجه و تصمیم گرفتم ترجمه کنم.
 
+<audio controls src="https://serv100.albumaty.com/dl/3en/abdelrahman-mohamed/singles/Albumaty.com.Abdelrahman.Mohamed.Sekon.mp3"></audio>
+
 > [!example] شعر اصلی از حلاج
 > يا نَسيمَ الريح قولي لِلرَشا<br>
 > لَم يَزِدني الوِردُ إلا عَطشا<br>
