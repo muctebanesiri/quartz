@@ -1,5 +1,16 @@
-| Latin Text            | Turkish Translation           |
+---
+title:
+description: o fortuna turkish translation
+keywords: latin
+draft: false
+tags:
+  - latin
+date:
+---
+
+| Latin                 | Türkçe                        |
 | --------------------- | ----------------------------- |
+|                       |                               |
 | O Fortuna             | Ah ey felek                   |
 | velut luna            | sen aya tek                   |
 | statu variabilis,     | statun degisebilir            |
@@ -8,21 +19,21 @@
 | vita detestabilis     | nefret dolu bir hayat         |
 | nunc obdurat          | ilk zulmeder                  |
 | et tunc curat         | sonra rahmet                  |
-| ludo mentis aciem,    | zihnin keskin oyununda,       |
+| ludo mentis aciem,    | nasıl istediği ise            |
 | egestatem,            | yoksulluğu,                   |
 | potestatem            | güçlülüğü                     |
-| dissolvit ut glaciem. | buz gibi eritir çözer.        |
+| dissolvit ut glaciem. | buz eritir tek çözer.         |
 |                       |                               |
-| Sors immanis          | zalim Kader                   |
-| et inanis,            | ve boş,                       |
+| Sors immanis          | korkunç Kader                 |
+| et inanis,            | ve de bomboş,                 |
 | rota tu volubilis,    | çarkın dönen,                 |
-| status malus,         | durum iğrenç,                 |
-| vana salus            | boş bir kurtuluş              |
-| semper dissolubilis,  | hep çözülür,                  |
+| status malus,         | art niyetli                   |
+| vana salus            | refah boşdur                  |
+| semper dissolubilis,  | hep hiçliğe varan yol         |
 | obumbrata             | gölgelenmiş                   |
 | et velata             | ve örtülü                     |
 | michi quoque niteris; | bana da saldırırsın;          |
-| nunc per ludum        | şimdi oyunla                  |
+| nunc per ludum        | bir hileyle                   |
 | dorsum nudum          | çıplak sırtım                 |
 | fero tui sceleris.    | senin suçunun yükünü taşırım. |
 |                       |                               |

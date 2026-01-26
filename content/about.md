@@ -3,8 +3,8 @@ title: About
 draft: false
 tags:
   - explorerexclude
-date: 2024-07-02
+date:
 ---
 Hello 👋 I am Mücteba.
 
-The whole thing began with the [YouTube channel](https://www.youtube.com/@muctebanesiri) and [[pisikyolu/index|Pişikyolu podcast]]. I needed somewhere to share transcriptions of the episodes and maybe other useful stuff, and here serves that purpose.
+The whole thing began with [my YouTube channel](https://www.youtube.com/@muctebanesiri) and then [[pisikyolu/index|Pişikyolu podcast]]. I needed somewhere to share transcriptions of the episodes and other useful stuff, and here serves that purpose.
