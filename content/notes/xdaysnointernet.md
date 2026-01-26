@@ -35,9 +35,7 @@ date: 2026-01-15
 
 <span style="direction: ltr; text-align: left; display: block;">
 
-$$
 (0.04 × 400,000,000,000) ÷ 52 ≈ 307,692,307.69
-$$
 
 </span>
 ![[calc.png]]
