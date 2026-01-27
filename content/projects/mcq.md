@@ -5,7 +5,6 @@ tags:
   - Anki
 date: 2024-03-06
 ---
-
 > [!example] This is the README of the [GitHub repository.](https://github.com/muctebanesiri/anki-multiple-choice-question-template)
 
 This repository contains simple JavaScript, HTML, and CSS code for front and back cards, designed specifically for styling multiple choice questions in Anki. 

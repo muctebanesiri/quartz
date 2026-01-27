@@ -1,5 +1,5 @@
 ---
-title: فونت روبومتن | Robomatn font
+title: Robomatn font | فونت روبومتن
 description: Robomatn is a simple personal mashup of Roboto + Vazirmatn made so Persian/Arabic and Latin text look nice together on my Android without any tofu.
 keywords: font, robomatn, vazirmatn
 draft: false
@@ -17,8 +17,7 @@ What’s here
 - Built font (.ttf & .sfd)
 
 Quick install
-
-```git clone https://github.com/muctebanesiri/robomatn.git```
+- ```git clone https://github.com/muctebanesiri/robomatn.git```
 
 Usage
 - Android: just replace your defualt font on any android with Robomatn.

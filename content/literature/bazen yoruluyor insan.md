@@ -24,4 +24,4 @@ date: 2025-11-10
 > her şeyin yokluğa varacağından<br>
 
 
-Yaşar Kemal'in yalnızlık şiirinden esinlenerek yazdım kısa bi şiir. Ara sıra dönüp revize edip uzatmaya çalışırım belki.
+Yaşar Kemal'in yalnızlık şiirinden esinlenerek yazdığım kısa bi şiir. Ara sıra dönüp revize edip uzatmaya çalışırım belki.
