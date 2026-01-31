@@ -16,7 +16,7 @@ tags:
 date: 2023-09-07
 cssclass: rtl-class
 ---
-<span style="direction: rtl; text-align: right; display: block;">
+<div dir="rtl">
 
 # عقود معین
 
@@ -400,7 +400,8 @@ cssclass: rtl-class
 **تفکیک بین اجرت المثل و اجرت المسمی**
 وقتی اجرت از قبل تعیین میشود «اجرت المسمی» و چنانچه بعد از کار/اجاره مشخص سود «اجرت المثل[^4]» نامیده میشود.
 
-</span>
+</div>
+
 
 [^1]: Right to Withhold performance
 
