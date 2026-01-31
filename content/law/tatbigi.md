@@ -15,7 +15,7 @@ cssclass: dir="rtl"
 ---
 <span style="direction: rtl; text-align: right; display: block;">
 
-# حقوق تطبیقی
+# 📚 حقوق تطبیقی
 تقریرات دکتر رحیمی نژاد  
 مجتبی نصیری[^1]
 
