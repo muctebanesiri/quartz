@@ -14,7 +14,7 @@ tags:
   - قانون_مدنی
   - حقوق_ایران
 date: 2023-09-07
-cssclass: rtl-class
+cssclass: 'direction: "rtl"'
 ---
 <span style="direction: rtl; text-align: right; display: block;">
 
