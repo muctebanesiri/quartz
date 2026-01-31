@@ -1,6 +1,6 @@
 @use "./base.scss";
 .rtl-class,
 .rtl-class * {
-  direction: rtl;
+<span style="direction: rtl; text-align: right; display: block;">
 }
 // put your custom CSS here!
