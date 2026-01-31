@@ -16,6 +16,7 @@ tags:
 date: 2023-09-07
 ---
 <span style="direction: rtl; text-align: right; display: block;">
+
 # عقود معین
 
 ## بیع
