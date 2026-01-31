@@ -11,7 +11,7 @@ tags:
   - جزوه
   - حقوق
 date: 2023-09-07
-cssclass: "direction: rtl;"
+cssclass: dir="rtl"
 ---
 <span style="direction: rtl; text-align: right; display: block;">
 
