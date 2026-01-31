@@ -14,6 +14,7 @@ date: 2025-10-31
 cssclass: "direction: rtl;"
 ---
 <span style="direction: rtl; text-align: right; display: block;">
+
 # حقوق تطبیقی
 تقریرات دکتر رحیمی نژاد  
 مجتبی نصیری[^1]
