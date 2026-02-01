@@ -9,7 +9,8 @@ tags:
 date: 2026-01-26
 ---
 
-> [!example]  original repo at [github](github.com/muctebanesiri/robomatn)
+> [!example] ㅤ
+> original repo at [github](github.com/muctebanesiri/robomatn)
 
 Robomatn is a simple personal mashup of Roboto + Vazirmatn made so Persian/Arabic and Latin text look nice together on my Android without any tofu.
 
