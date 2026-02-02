@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "projects/robomatn.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -173,8 +173,9 @@
   },
   "active": "df6f310fbfc5e250",
   "lastOpenFiles": [
-    "notes/zapret.md",
+    "attachment/robomatn.svg",
     "projects/robomatn.md",
+    "notes/zapret.md",
     "index.md",
     "contact.md",
     "about.md",
@@ -216,7 +217,6 @@
     "projects",
     "pisikyolu",
     "Pisikyolu",
-    "law",
-    "Public/attachment/banner.svg"
+    "law"
   ]
 }
