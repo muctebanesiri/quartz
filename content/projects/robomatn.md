@@ -16,7 +16,9 @@ date: 2026-01-26
 - Built font (.ttf & .sfd)
 
 ### Quick Installation
-- `git clone https://github.com/muctebanesiri/robomatn.git`
+```shell
+git clone https://github.com/muctebanesiri/robomatn.git`
+```
 
 
 ### Usage
