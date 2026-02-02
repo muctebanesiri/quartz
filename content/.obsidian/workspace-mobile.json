@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "literature/pessoa.md",
-                "mode": "preview",
+                "file": "literature/elvida.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "pessoa"
+              "title": "elvida"
             }
           }
         ],
@@ -171,6 +171,7 @@
   },
   "active": "c28aa55e78da32bb",
   "lastOpenFiles": [
+    "literature/pessoa.md",
     "literature/hallaj.md",
     "literature/elvida.md",
     "literature/diger.md",
