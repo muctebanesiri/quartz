@@ -113,7 +113,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "literature/pessoa.md",
+            "file": "literature/elvida.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -171,9 +171,10 @@
   },
   "active": "c28aa55e78da32bb",
   "lastOpenFiles": [
-    "literature/pessoa.md",
     "literature/hallaj.md",
     "literature/elvida.md",
+    "literature/ofortuna.md",
+    "literature/pessoa.md",
     "literature/diger.md",
     "literature/bazen yoruluyor insan.md",
     "projects/vahid-font.md",

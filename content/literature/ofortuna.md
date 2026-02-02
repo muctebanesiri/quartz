@@ -19,7 +19,7 @@ date:
 | vita detestabilis     | nefret dolu bir hayat         |
 | nunc obdurat          | ilk zulmeder                  |
 | et tunc curat         | sonra rahmet                  |
-| ludo mentis aciem,    | nasıl istediği ise            |
+| ludo mentis aciem,    | nasıl istedi ise              |
 | egestatem,            | yoksulluğu,                   |
 | potestatem            | güçlülüğü                     |
 | dissolvit ut glaciem. | buz eritir tek çözer.         |
