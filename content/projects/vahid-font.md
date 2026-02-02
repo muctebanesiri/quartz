@@ -18,7 +18,7 @@ Vahid Font is a multilingual typeface for my daily personal use, supporting most
 
 - **Multilingual Support**: Covers English, Turkish, Ottoman, Azerbaijani, Persian, Arabic, and other Latin and Arabic-based scripts.
 - **Customized Glyphs**: Tailored modifications for Turkish and Azerbaijani characters (e.g. İ, ş, ğ and ə) and Ottoman script.
-- **Dual-Script Design**: Combines the Ruqaa for Arabic scripts with AMS Euler for Latin scripts.
+- **Dual-Script Design**: ArefRuqaa for Arabic based scripts and AMS Euler for Latin scripts.
 - Provided as `Vahid.ttf` and `vahid.sfd` for broad compatibility across platforms.
 
 ## Preview
