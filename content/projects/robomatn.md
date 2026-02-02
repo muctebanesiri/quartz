@@ -16,8 +16,7 @@ date: 2026-01-26
 - Built font (.ttf & .sfd)
 
 ### Quick Installation
-- ```bash
-git clone https://github.com/muctebanesiri/robomatn.git
+- `git clone https://github.com/muctebanesiri/robomatn.git`
 
 
 ### Usage
@@ -29,6 +28,6 @@ git clone https://github.com/muctebanesiri/robomatn.git
 
 
 > [!danger] Note  
-If you're familiar with Vazirmatn, you may wonder what the difference is between Robomatn and Vazirmatn. Since both are Vazirmatn + Roboto.
-The short answer is:
-there is no significant difference. After the tragic passing of Saber Rastikerdar, the creator of Vazirmatn, his project became unmaintained. After years of using Vazirmatn, I began to notice some tofu display issues here and there, which led me to merge the latest version of Roboto with Vazirmatn. This resulted in a more clear tofu-free font.
+> If you're familiar with Vazirmatn, you may wonder what the difference is between Robomatn and Vazirmatn. Since both are Vazirmatn + Roboto.
+> The short answer is:
+> there is no significant difference. After the tragic passing of Saber Rastikerdar, the creator of Vazirmatn, his project became unmaintained. After years of using Vazirmatn, I began to notice some tofu display issues here and there, which led me to merge the latest version of Roboto with Vazirmatn. This resulted in a more clear tofu-free font.
