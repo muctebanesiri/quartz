@@ -15,6 +15,8 @@ tags:
   - arch
 date: 2026-02-03
 ---
+![banner](https://camo.githubusercontent.com/6c7104f0e588a7b98da2ee531ec48cd4382ffd40a0561d4278e6fbcda7fc93d2/68747470733a2f2f6366676e756e65732e6769746875622e696f2f6e617574696c75732d736372697074732f73637265656e73686f742e737667)
+
 Have you ever wished you could right-click on files in your Linux file manager and run custom scripts with a single click? What if you could convert images to modern formats, extract archives in special ways, or batch-rename files without ever opening a terminal? With Nautilus scripts, you can transform your standard file manager into a powerhouse of productivity.
 
 In this guide, I'll explain how to create, install, and use custom scripts in Nautilus (also known as GNOME Files), turning repetitive tasks into one-click operations.
