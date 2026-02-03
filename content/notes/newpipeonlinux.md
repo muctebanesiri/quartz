@@ -13,7 +13,7 @@ keywords: NewPipe Arch Linux, set NewPipe default YouTube, GNOME YouTube handler
 image: attachment/newpipe.png
 date: 2025-11-06
 ---
-![How to Set NewPipe as Default YouTube App on Arch Linux GNOME | Tutorial Cover Image](newpipe.png)
+![How to Set NewPipe as Default YouTube App on Arch Linux GNOME | Tutorial Cover Image](newpipe.webp)
 This guide helps you configure NewPipe (a privacy-friendly YouTube client) to automatically open YouTube links from anywhere—like your browser, emails, or apps—instead of your web browser. We'll use a simple "wrapper script" to detect YouTube URLs and route them to NewPipe, while keeping everything else opening in your default browser (e.g., Firefox).
 **Goal:** Click any YouTube link (e.g., `https://youtu.be/...`) → Opens video directly in NewPipe. Non-YouTube links → Opens in browser.
 **Prerequisites:**
