@@ -91,7 +91,7 @@ Then, simply:
 
 ## Practical Example: My Image Converter Script
 
-You can create a truly useful script tht will convert images to AVIF format (or any other format for that matter) with quality options.
+You can create a truly useful script that will convert images to AVIF format (or any other format for that matter) with quality options.
 
 Create a new file `convert-to-avif` in your scripts directory:
 
