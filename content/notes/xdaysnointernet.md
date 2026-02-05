@@ -40,4 +40,9 @@ $$
 امما بو مالی خسارتلردن داها چوخ ناراحت الین شی جانی خسارتلردی؛ فعلا دقیق آماری مشخص اولمیان خسارتلر.
 
 ایندی ده دییرلر احتمال چوخ - گنه - جنگ اولاجاق. بیلمیرم جنگ اولا یا یوخ ولی مطمئنم کی بو وضعیت بی turning point دی؛ حداقل منه.
+
+<!-- Google Calendar Appointment Scheduling begin -->
+<iframe src="https://calendar.google.com/calendar/appointments/schedules/AcZssZ3bzDGbwG9ejuniDNrrLREuS5dDCTVGv7UQJUbfDxYNr_SVoxVsDKb8QgP5wwWNsmxWWEfecG97?gv=true" style="border: 0" width="100%" height="600" frameborder="0"></iframe>
+<!-- end Google Calendar Appointment Scheduling -->
+
 </span>
