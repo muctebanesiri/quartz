@@ -13,15 +13,58 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "projects/robomatn.md",
+                "file": "notes/nautilus.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "robomatn"
+              "title": "nautilus"
+            }
+          },
+          {
+            "id": "c3a180f6cc0bc2f0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/xdaysnointernet.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "xdaysnointernet"
+            }
+          },
+          {
+            "id": "7883156801d26ace",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/newpipeonlinux.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "newpipeonlinux"
+            }
+          },
+          {
+            "id": "d53145701d104148",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/mirrors.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "mirrors"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -53,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "muctebanesiri@gmail.com",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +121,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "c627c524578f716c",
@@ -171,10 +214,18 @@
       "obsidian-media-db-plugin:Add new Media DB entry": false
     }
   },
-  "active": "df6f310fbfc5e250",
+  "active": "c3a180f6cc0bc2f0",
   "lastOpenFiles": [
-    "attachment/robomatn.svg",
+    "projects/sent.md",
+    "notes/nautilus.md",
+    "notes/newpipeonlinux.md",
     "projects/robomatn.md",
+    "notes/mirrors.md",
+    "literature/antidepresan.md",
+    "attachment/newpipe.webp",
+    "attachment/hallaj.webp",
+    "projects/index.md",
+    "attachment/robomatn.svg",
     "notes/zapret.md",
     "index.md",
     "contact.md",
@@ -185,7 +236,6 @@
     "literature/hallaj.md",
     "law/madani6.md",
     "notes/xdaysnointernet.md",
-    "Untitled.md",
     "constitutionof1906.md",
     "law/tatbigi.md",
     "law/جزوه حقوق تطبیقی 1.md",
@@ -195,19 +245,13 @@
     "image1.md",
     "law/قانون خدمت وظیفه عمومی.md",
     "literature/bazen yoruluyor insan.md",
-    "notes/newpipeonlinux.md",
     "projects/mcq.md",
     "attachment/ping.png",
     "projects/vahid-font.md",
     "attachment/calc.png",
-    "notes/mirrors.md",
     "literature/ofortuna.md",
-    "literature/pessoa.md",
     "attachment/pessoa.jpeg",
     "attachment/newpipe.png",
-    "2025-11-10.md",
-    "attachment/Screenshot From 2026-01-17 13-46-56.png",
-    "Screenshot From 2026-01-08 20-42-12.png",
     "attachment/sitemap.xml",
     "Book view.base",
     "Book view 1.base",
