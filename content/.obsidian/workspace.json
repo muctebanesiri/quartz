@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/xdaysnointernet.md",
+                "file": "literature/pessoa.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "xdaysnointernet"
+              "title": "pessoa"
             }
           },
           {
@@ -96,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "لت می اکسپلین ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -117,7 +117,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -214,6 +215,7 @@
   },
   "active": "c3a180f6cc0bc2f0",
   "lastOpenFiles": [
+    "notes/xdaysnointernet.md",
     "projects/sent.md",
     "notes/nautilus.md",
     "notes/newpipeonlinux.md",
@@ -233,7 +235,6 @@
     "attachment/404.png",
     "literature/hallaj.md",
     "law/madani6.md",
-    "notes/xdaysnointernet.md",
     "constitutionof1906.md",
     "law/tatbigi.md",
     "law/جزوه حقوق تطبیقی 1.md",
