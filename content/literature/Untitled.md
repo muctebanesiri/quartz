@@ -1,29 +1,102 @@
-کیم دئییر کی‌، بیر یئره چاتماز بیزیم هر دادیمیز
-داغــی یئـردن اوینادیبدیــر آهی‌میــز، فریادیمیز
+این لیست براساس نظرسنجی رسانه نیویورک تایمز از بیش از 500 کارگردان، بازیگر و سایر افراد مشهور از هالیوود و سرتاسر جهان تهیه شده. 
 
-چون کسی گوید که جایی نارسد هر داد ما؟
-کوه ها از جا کند هر داد ما، فریاد ما
-
-کؤرپنی یاخشی یاتیردار یاخشی یئللنسه بئشیک
-سیلکلنــدیکجــه بیزیــم مؤحکملنــر بونیــادیمیز
-
-
-هر چه جنبد میشود محکم تر این بنیاد ما
-
-شیرینین رسمین اورک قانیملا هـر آن چکمیشیک
-بیسـوتونــو ائیلــدی مشحــور فقــط فرهــادیمیز
-
-دوستا نقصـان سایمیـرام، اونلار بیزی آز یاد ائدر
-بیـز ائلـه دؤورانداییـق یاددان چیخیبدیـر آدیمیز
-
-نقص دوران است اگر از یاد رفته یاد ما
-
-اووو توتجـاق تئـز کمندلـه باغلاییـرلار اووچـولار
-گؤر نئجـه چکمیـش کمندلـه داغ بیـزه صیادیمیز
-
-سانما محـو اولدوق بیـزی قلبلرده آختار سن یئنه
-بیــر ده دوشمـــز سئـللـره ویــران اولان آبادیمیز
-
-دؤیـدو، برکیتدی بیـزی، صایب، زامانیـن زیندانی
-توبه ائتدی بیـر داها دؤیسـون بیـزی ئوستادیمیز
-
+1. [x] Parasite (Bong Joon-ho)
+2. [ ] Mulholland Drive (David Lynch)
+3. [ ] There Will Be Blood (Paul Thomas Anderson)
+4. [x] In the Mood for Love (Wong Kar-wai)
+5. [ ] Moonlight (Barry Jenkins)
+6. [x] No Country for Old Men (Joel & Ethan Coen)
+7. [x] Eternal Sunshine of the Spotless Mind (Michel Gondry)
+8. [ ] Get Out (Jordan Peele)
+9. [x] Spirited Away (Hayao Miyazaki)
+10. [x] The Social Network (David Fincher)
+11. [ ] Mad Max: Fury Road (George Miller)
+12. [ ] The Zone of Interest (Jonathan Glazer)
+13. [ ] Children of Men (Alfonso Cuarón)
+14. [ ] Inglourious Basterds (Quentin Tarantino)
+15. [x] City of God (Fernando Meirelles)
+16. [ ] Crouching Tiger, Hidden Dragon (Ang Lee)
+17. [x] Brokeback Mountain (Ang Lee)
+18. [ ] Y tu mamá también (Alfonso Cuarón)
+19. [ ] Zodiac (David Fincher)
+20. [x] The Wolf of Wall Stree (Martin Scorsese)
+21. [ ] The Royal Tenenbaums (Wes Anderson)
+22. [ ] The Grand Budapest Hotel (Wes Anderson)
+23. [ ] Boyhood (Richard Linklater)
+24. [ ] Her (Spike Jonze)
+25. [ ] Phantom Thread (Paul Thomas Anderson)
+26. [ ] Anatomy of a Fall (Justine Triet)
+27. [ ] Adaptation (Spike Jonze)
+28. [x] The Dark Knight (Christopher Nolan)
+29. [ ] Arrival (Denis Villeneuve)
+30. [ ] Lost in Translation (Sofia Coppola)
+31. [ ] The Departed (Martin Scorsese)
+32. [ ] Bridesmaids (Paul Feig)
+33. [ ] A Separation (Asghar Farhadi) — جدایی نادر از سیمین 
+34. [x] WALL-E (Andrew Stanton)
+35. [ ] A Prophet (Jacques Audiard)
+36. [ ] A Serious Man (Joel & Ethan Coen)
+37. [ ] Call Me By Your Name (Luca Guadagnino)
+38. [ ] Portrait of A Lady on Fire (Celine Sciamma)
+39. [ ] Lady Bird (Greta Gerwig)
+40. [ ] Yi Yi (Edward Yang)
+41. [x] Amelie (Jean-Pierre Jeunet)
+42. [ ] The Master (Paul Thomas Anderson)
+43. [x] Oldboy (Park Chan Wook)
+44. [x] Once Upon A Time in Hollywood (Quentin Tarantino)
+45. [ ] Moneyball (Bennett Miller)
+46. [ ] ROMA (Alfonso Cuaron)
+47. [ ] Almost Famous (Cameron Crowe)
+48. [ ] The Lives of Others (Florian Henckel Von Donnersmarck)
+49. [ ] Before Sunset (Richard Linklater)
+50. [ ] Up! (Pete Docter)
+51. [ ] 12 Years A Slave (Steve McQueen)
+52. [ ] The Favourite (Yorgos Lanthimos)
+53. [x] Borat (Larry Charles)
+54. [ ] Pan’s Labyrinth (Guillermo Del Toro)
+55. [x] Inception (Christopher Nolan)
+56. [ ] Punch-Drunk Love (Paul Thomas Anderson)
+57. [ ] Best in Show (Christopher Guest)
+58. [ ] Uncut Gems (Josh and Benny Safdie)
+59. [ ] Toni Erdmann (Maren Ade)
+60. [ ] Whiplash (Damien Chazelle)
+61. [ ] Kill Bill Vol. 1 (Quentin Tarantino)
+62. [x] Memento (Christopher Nolan)
+63. [ ] Little Miss Sunshine (Dayton & Faris)
+64. [ ] Gone Girl (David Fincher)
+65. [ ] Oppenheimer (Christopher Nolan)
+66. [ ] Spotlight (Tom McCarthy)
+67. [ ] TAR (Todd Field)
+68. [ ] The Hurt Locker (Kathryn Bigelow)
+69. [ ] Under The Skin (Jonathan Glazer)
+70. [ ] Let The Right One In (Tomas Alfredson)
+71. [x] Ocean’s Eleven (Steven Soderbergh)
+72. [ ] Carol (Todd Haynes)
+73. [ ] Ratatouille (Brad Bird)
+74. [ ] The Florida Project (Sean Baker)
+75. [ ] Amour (Michael Haneke)
+76. [ ] O Brother Where Art Thou (Joel & Ethan Coen)
+77. [ ] Everything Everywhere All At Once (The Daniels)
+78. [ ] Aftersun (Charlotte Wells)
+79. [ ] Tree of Life (Terrence Malick)
+80. [ ] Volver (Pedro Almodovar)
+81. [x] Black Swan (Darren Aronofsky)
+82. [ ] The Act of Killing (Joshua Oppenheimer)
+83. [ ] Inside Llewyn Davis (Joel & Ethan Coen)
+84. [ ] Melancholia (Lars Von Trier)
+85. [ ] Anchorman (Adam McKay)
+86. [ ] Past Lives (Celine Song)
+87. [ ] The Fellowship of the Ring (Peter Jackson)
+88. [ ] The Gleaners and I (Agnes Varda)
+89. [x] Interstellar (Christopher Nolan)
+90. [ ] Frances Ha (Noah Baumbach)
+91. [ ] Fish Tank (Andrea Arnold)
+92. [x] Gladiator (Ridley Scott)
+93. [ ] Michael Clayton (Tony Gilroy)
+94. [ ] Minority Report (Steven Spielberg)
+95. [ ] The Worst Person in the World (Joachim Trier)
+96. [ ] Black Panther (Ryan Coogler)
+97. [ ] Gravity (Alfonso Cuaron)
+98. [ ] Grizzly Man (Werner Herzog)
+99. [ ] Memories of A Murder (Bong Joon-ho)
+100. [ ] Superbad (Greg Motolla)

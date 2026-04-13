@@ -10,6 +10,8 @@ export const sharedPageComponents: SharedLayout = {
     links: {
       GitHub: "https://github.com/muctebanesiri",
       YouTube: "https://youtube.com/@muctebanesiri",
+      Podcast: "https://fm.mucteba.ir",
+      Donate: "https://fm.mucteba.ir"
     },
   }),
 }
