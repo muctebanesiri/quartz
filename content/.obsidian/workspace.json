@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "dba9440f48a41957",
+        "id": "85bde6ea14d60622",
         "type": "tabs",
         "children": [
           {
-            "id": "7883156801d26ace",
+            "id": "ead4ea183ae50ce5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "notes/برای سربازی چی با خودم ببرم؟ لیست کامل وسایل ضروری اعزام به سربازی  One Nice Life.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "برای سربازی چی با خودم ببرم؟ لیست کامل وسایل ضروری اعزام به سربازی  One Nice Life"
             }
           }
         ]
@@ -74,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "c627c524578f716c",
@@ -166,8 +169,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7883156801d26ace",
+  "active": "ead4ea183ae50ce5",
   "lastOpenFiles": [
+    "notes/xdaysnointernet.md",
+    "notes/zapret.md",
+    "notes/برای سربازی چی با خودم ببرم؟ لیست کامل وسایل ضروری اعزام به سربازی  One Nice Life.md",
+    "notes/offlinification.md",
     "projects/sent.md",
     "projects/robomatn.md",
     "projects/mcq.md",
@@ -175,11 +182,7 @@
     "pisikyolu/root.md",
     "pisikyolu/mollanasreddin.md",
     "pisikyolu/ajabshir.md",
-    "notes/برای سربازی چی با خودم ببرم؟ لیست کامل وسایل ضروری اعزام به سربازی  One Nice Life.md",
-    "notes/zapret.md",
-    "notes/xdaysnointernet.md",
     "notes/survivalkit.md",
-    "notes/offlinification.md",
     "notes/newpipeonlinux.md",
     "notes/nautilus.md",
     "notes/mirrors.md",
