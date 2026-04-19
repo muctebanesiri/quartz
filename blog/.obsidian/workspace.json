@@ -1,24 +1,20 @@
 {
   "main": {
-    "id": "1e8f9e926ca18b38",
+    "id": "4a0614d2796786b7",
     "type": "split",
     "children": [
       {
-        "id": "dba9440f48a41957",
+        "id": "82108a3e56af2237",
         "type": "tabs",
         "children": [
           {
-            "id": "7883156801d26ace",
+            "id": "249184b16da251f1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/survivalkit.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "survivalkit"
+              "title": "New tab"
             }
           }
         ]
@@ -27,15 +23,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "7bf78b3fab896c97",
+    "id": "f0ba5042c3870617",
     "type": "split",
     "children": [
       {
-        "id": "aaab07f1f9881388",
+        "id": "de3fe9b3d86bec10",
         "type": "tabs",
         "children": [
           {
-            "id": "6ca8705ad9513b8b",
+            "id": "79d2f515cbf10866",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +44,7 @@
             }
           },
           {
-            "id": "2b11d0c61e987c83",
+            "id": "7bbd371488c641bf",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +61,7 @@
             }
           },
           {
-            "id": "3b28d7e00ec93b45",
+            "id": "bdec49649a9eb778",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -78,24 +74,22 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 300
   },
   "right": {
-    "id": "c627c524578f716c",
+    "id": "599178c3150dcf4b",
     "type": "split",
     "children": [
       {
-        "id": "bb3d87cfb6fa47e0",
+        "id": "b67f790e5d4d12ec",
         "type": "tabs",
         "children": [
           {
-            "id": "8c2cebf815a02abf",
+            "id": "548c5b2ee9b38dd2",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "attachment/hallaj.jpeg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,25 +99,24 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for hallaj"
+              "title": "Backlinks"
             }
           },
           {
-            "id": "75611cd5288cf0ba",
+            "id": "89a49ca4b9c9b590",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pişikyolu/تاریخ مختصر مشروطه عثمانی.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from تاریخ مختصر مشروطه عثمانی"
+              "title": "Outgoing links"
             }
           },
           {
-            "id": "367cf5b63e569a82",
+            "id": "3ea35a9fd8b956b7",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -138,18 +131,31 @@
             }
           },
           {
-            "id": "3d88e4e8177f5d7a",
+            "id": "d1113e5973fc841f",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "67d97945668f6c15",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pişikyolu/تاریخ مختصر مشروطه عثمانی.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of تاریخ مختصر مشروطه عثمانی"
+              "title": "Outline"
             }
           }
         ]
@@ -161,62 +167,15 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
     }
   },
-  "active": "7883156801d26ace",
-  "lastOpenFiles": [
-    "literature/saeb.md",
-    "notes/mirrors.md",
-    "projects/robomatn.md",
-    "projects/mcq.md",
-    "about.md",
-    "literature/bazen yoruluyor insan.md",
-    "literature/antidepresan.md",
-    "notes/nautilus.md",
-    "notes/offlinification.md",
-    "notes/survivalkit.md",
-    "notes/برای سربازی چی با خودم ببرم؟ لیست کامل وسایل ضروری اعزام به سربازی  One Nice Life.md",
-    "literature/hallaj.md",
-    "notes/zapret.md",
-    "attachment/pro.md",
-    "attachment/rtl.md",
-    "literature/elvida.md",
-    "literature/diger.md",
-    "literature/بیزدن اشاغیلار دا چوخوندان دی یوخاری.md",
-    "index.md",
-    "literature/Untitled.md",
-    "literature/pessoa.md",
-    "2024-06-16.md",
-    "pisikyolu/index.md",
-    "notes/xdaysnointernet.md",
-    "projects/sent.md",
-    "notes/newpipeonlinux.md",
-    "attachment/newpipe.webp",
-    "attachment/hallaj.webp",
-    "attachment/robomatn.svg",
-    "attachment/hallaj.jpeg",
-    "attachment/banner.svg",
-    "attachment/404.png",
-    "attachment/ping.png",
-    "attachment/calc.png",
-    "attachment/pessoa.jpeg",
-    "attachment/newpipe.png",
-    "attachment/sitemap.xml",
-    "Book view.base",
-    "Book view 1.base",
-    "Media DB/wiki",
-    "Media DB",
-    "Movies",
-    "projects",
-    "pisikyolu",
-    "Pisikyolu",
-    "law"
-  ]
+  "active": "79d2f515cbf10866",
+  "lastOpenFiles": []
 }
