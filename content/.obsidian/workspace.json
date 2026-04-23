@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled 1.md",
+                "file": "notes/qavanin.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled 1"
+              "title": "qavanin"
             }
           }
         ],
@@ -186,8 +186,8 @@
   },
   "active": "320bb8664ad7c11c",
   "lastOpenFiles": [
-    "Untitled 3.md",
     "Untitled 1.md",
+    "Untitled 3.md",
     "Untitled 2.md",
     "Untitled.md",
     "Screenshot From 2026-04-21 15-43-02.png",
