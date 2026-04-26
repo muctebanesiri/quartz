@@ -34,9 +34,37 @@
               "icon": "lucide-file",
               "title": "qavanin"
             }
+          },
+          {
+            "id": "d9b887ded8f84e39",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "index"
+            }
+          },
+          {
+            "id": "4b01ad41c5eeef86",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Offline Anki Sync.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Offline Anki Sync"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -184,15 +212,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "320bb8664ad7c11c",
+  "active": "4b01ad41c5eeef86",
   "lastOpenFiles": [
+    "index.md",
+    "Offline Anki Sync.md",
     "Untitled 1.md",
+    "notes/survivalkit.md",
+    "notes/Untitled 2.md",
+    "notes/Untitled.md",
+    "notes/qavanin.md",
+    "notes/offlinification.md",
+    "literature/Untitled.md",
     "Untitled 3.md",
-    "Untitled 2.md",
-    "Untitled.md",
     "Screenshot From 2026-04-21 15-43-02.png",
     "Screenshot From 2026-04-21 15-36-55.png",
-    "notes/qavanin.md",
     "notes/برای سربازی چی با خودم ببرم؟ لیست کامل وسایل ضروری اعزام به سربازی  One Nice Life.md",
     "attachment/qavanin1.jpg",
     "attachment/qavanin.jpg",
@@ -200,7 +233,6 @@
     "literature/hallaj.md",
     "notes/xdaysnointernet.md",
     "notes/zapret.md",
-    "notes/offlinification.md",
     "projects/sent.md",
     "projects/robomatn.md",
     "projects/mcq.md",
@@ -208,14 +240,11 @@
     "pisikyolu/root.md",
     "pisikyolu/mollanasreddin.md",
     "pisikyolu/ajabshir.md",
-    "notes/survivalkit.md",
     "notes/newpipeonlinux.md",
     "notes/nautilus.md",
     "notes/mirrors.md",
     "notes/index.md",
-    "notes/donts.md",
     "notes",
-    "literature/بیزدن اشاغیلار دا چوخوندان دی یوخاری.md",
     "attachment/pessoa.jpeg",
     "attachment/newpipe.webp",
     "attachment/hallaj.jpeg",
