@@ -44,19 +44,19 @@ Leave this terminal open while you test. **For a permanent background server, sk
 
 Instead of keeping a terminal open, create a systemd service so the server starts automatically on boot and restarts if it crashes.
 
-1. **Create a virtual environment and install `anki`** (as your normal user):
+1. **Create a single directory for all Anki sync stuff** (keeps your home folder clean):
 
    ```bash
-   python3 -m venv ~/anki-venv
-   source ~/anki-venv/bin/activate
-   pip install anki
-   deactivate
+   mkdir -p ~/anki/data
    ```
 
-2. **Create the data directory**:
+2. **Create a virtual environment and install `anki`** inside that directory:
 
    ```bash
-   mkdir -p ~/anki-data
+   python3 -m venv ~/anki/venv
+   source ~/anki/venv/bin/activate
+   pip install anki
+   deactivate
    ```
 
 3. **Create the systemd service file**:
@@ -65,7 +65,7 @@ Instead of keeping a terminal open, create a systemd service so the server start
    sudo nano /etc/systemd/system/anki-sync-server.service
    ```
 
-   Paste this (replace `myusername` and `mypassword` with your chosen credentials, and adjust the path if your username is different):
+   Paste this (replace `myusername` and `mypassword` with your credentials):
 
    ```ini
    [Unit]
@@ -76,14 +76,14 @@ Instead of keeping a terminal open, create a systemd service so the server start
    Type=simple
    User=myusername
    Group=myusername
-   WorkingDirectory=/home/myusername
+   WorkingDirectory=/home/myusername/anki
 
    Environment="SYNC_USER1=myusername:mypassword"
-   Environment="SYNC_BASE=/home/myusername/anki-data"
+   Environment="SYNC_BASE=/home/myusername/anki/data"
    Environment="SYNC_HOST=0.0.0.0"
    Environment="SYNC_PORT=8080"
 
-   ExecStart=/home/myusername/anki-venv/bin/python -m anki.syncserver
+   ExecStart=/home/myusername/anki/venv/bin/python -m anki.syncserver
 
    Restart=on-failure
    RestartSec=10
