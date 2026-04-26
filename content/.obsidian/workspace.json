@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Offline Anki Sync.md",
+                "file": "notes/offlineankisync.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Offline Anki Sync"
+              "title": "offlineankisync"
             }
           }
         ],
@@ -215,7 +215,7 @@
   "active": "4b01ad41c5eeef86",
   "lastOpenFiles": [
     "index.md",
-    "Offline Anki Sync.md",
+    "notes/offlineankisync.md",
     "Untitled 1.md",
     "notes/survivalkit.md",
     "notes/Untitled 2.md",

@@ -5,7 +5,7 @@ description: |-
 
   You can easily run a local Anki sync server on your machine, turn your PC into a Wi‑Fi hotspot, and connect your phone directly to it.
 keywords:
-draft: true
+draft: false
 tags:
   - Anki
 date: 2026-04-26
@@ -29,10 +29,14 @@ SYNC_USER1=myusername:mypassword python -m anki.syncserver
 ```
 
 You’ll see:
-```
+```bash
 INFO listening addr=0.0.0.0:8080
 ```
 
+If you want to use other ports:
+```bash
+SYNC_PORT=9000 SYNC_USER1=myusername:mypassword python -m anki.syncserver
+```
 Leave this terminal open.
 
 ## Step 3: Configure Anki desktop (on the same PC)
