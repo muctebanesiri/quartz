@@ -1,5 +1,6 @@
 [
   "custom-font-loader",
   "obsidian-book-search-plugin",
-  "obsidian-media-db-plugin"
+  "obsidian-media-db-plugin",
+  "obsidian-livesync"
 ]
