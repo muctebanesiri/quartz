@@ -10,7 +10,7 @@ tags:
   - war
 date: 2026-05-07
 ---
-A friend sent me one of Professor Jiang's shorts, claiming the US-Iran war will drag on forever because "this man knows it all." I watched the full episode where he made a series of bold claims/predictions.
+A friend sent me one of Professor[^1] Jiang's shorts, claiming the US-Iran war will drag on forever because "this man knows it all." I watched the full episode where he made a series of bold claims/predictions.
 
 He calls it "predictive history." To me, it sounds like a scam wrapped in academic jargon. History is not supposed to predict the future. It can't.
 
@@ -25,7 +25,7 @@ I'm keeping this list of those predictions and I'll come back in the future (6 m
 	>
 	>maybe like Afghanistan/Vietnam scenarios.
 	
->Even if his two predictions are correct, that doesn't mean the rest will be too. There was a man who had correctly predicted 13 US election winners but his 14th prediction was wrong. So as the saying goes, "past accuracy does not guarantee future accuracy."
+>Even if his two predictions are correct, that doesn't mean the rest will be too. There was a man who had correctly predicted 9 US election winners but his 10th prediction was wrong. So as the saying goes, "past accuracy does not guarantee future accuracy."
 
 ---
 
@@ -34,7 +34,7 @@ I'm keeping this list of those predictions and I'll come back in the future (6 m
  - [ ]  Trump will get a third term as US president.  
 	 Trump could get a third term by having his son Don Jr. run for president, with Trump as vice president, then Don Jr. abdicates.  
 	 Trump could get a third term by using emergency war powers to suspend the constitution and delay the 2028 election (like Zelensky in Ukraine).
-	 >His boldest claim, maybe, totally unconstitutional though.
+	 >His boldest claim, maybe, really unlikely and totally unconstitutional though.
  - [ ]  There will be a US civil war (Democrats vs. Republicans taking up arms).  
  - [ ]  The American Empire will collapse within 5 to 10 years.  
 	>What? How? Why? Within 5-10 years? Unlikely af. 
@@ -43,12 +43,15 @@ I'm keeping this list of those predictions and I'll come back in the future (6 m
 
 ### Predictions about Iran war & Middle East
 
- - [ ]  Iran will become a “forever war” for the United States.  
+ - [ ]  Iran will unite the Muslim world against the US.
+	 >majority of Muslims are Sunnis and they don't even recognize Shi'as as legit musilims let alone unite with them. This suggests that he knows close to nothing about Islam. 
+ - [ ] Iran will become a “forever war” for the United States.  
  - [ ]  The United States will send ground troops into Iran.  
  - [ ]  Iran will survive the invasion.  
 	 > Not a falsifiable claim. Who does he mean by Iran? The people? The regime? What if Iran turns into a failed state? Can it be considered as "surviving the invasion"? 
 - [ ] The US will be forced to retreat from the Middle East.
 - [ ] Trump’s initial plan was a decapitation strike (kill the Ayatollah), believing Iran would surrender.  
+	>not a prediction
  - [ ]  Iran’s proxies (Hezbollah, Hamas, Houthis) will continue to fight.  
  - [ ]  The US will use ethnic insurgents (Baloch in southeast, Kurds in northwest) as forward operating bases to arm and train them.  
 	 > Possible. He drew the wrong region for Kurds in the video, though, which I can't blame really. 
@@ -71,12 +74,13 @@ I'm keeping this list of those predictions and I'll come back in the future (6 m
  - [ ]  Russia will enter the war on Iran’s side.  
  - [ ]  Russia will provide reinforcement to Iran via the Caspian Sea.  
  - [ ]  Russia will put Iran under its nuclear umbrella, negating any US/Israeli tactical nuclear option. 
-	 >possible. but i doubt Russia will take the risk nuclear engagement for Iran.  but on the other hand using any kind of nuclear weapon by US/Israel is very unlikely too. 
+	 >possible. but i doubt Russia will take such a risk for Iran. On the other hand using any kind of nuclear weapon by US/Israel is very unlikely too. 
  - [ ]  China will then be brought into the war on Iran’s side.  
  - [ ]  China will use the Belt and Road railway system to reinforce Iran from the east.  
  - [ ]  Russia and China will provide unlimited financing to Iran.  
  - [ ]  The US will try to topple the Russian government because Russia is the main backer of Iran.  
- - [ ]  Once the Americans consolidate bases in Azerbaijan, Uzbekistan, etc., they can attack Russia from the south.  
+ - [ ]  Once the Americans consolidate bases in Azerbaijan, Uzbekistan, etc., they can attack Russia from the south. 
+	 > I really hate this kind of manipulation. THIS IS NOT A PREDICTION. You can't predict the weather saying "once there are enough cloud it will rain" 
 
 ---
 
@@ -95,10 +99,11 @@ I'm keeping this list of those predictions and I'll come back in the future (6 m
 
  - [ ]  East Asia will break out into conflict.  
  - [ ]  First flashpoint: Taiwan – Japan will fight to prevent China‑Taiwan unification because Japan depends on the Strait of Malacca for resources.  
- - [ ]  Second flashpoint: Strait of Malacca – the US wants to control it; China sees it as key to its economic survival.  
+ - [ ]  Second flashpoint: Strait of Malacca – the US wants to control it; China sees it as key to its economic survival. 
+	 >the US does not want to control strait of Malacca, it already controls it.
  - [ ]  Third flashpoint: North Korea – with the world distracted, North Korea will create havoc.  
  - [ ]  North Korea can flatten Seoul with artillery in 20 minutes. 
-	 >This is actually possible. Seoul is dangerously close to North Korea. 
+	 >This is actually possible. Seoul is dangerously close to North Korea and in the last Korean war North Korea actually started by capturing the capital and then going for the whole peninsula.
  - [ ]  North Korea will extort South Korea (threaten to destroy Seoul in exchange for bribes).  
  - [ ]  The US is cannibalizing its forces in South Korea and Japan to maintain the war in the Middle East (e.g., moving THAAD systems).
 
@@ -120,13 +125,15 @@ I'm keeping this list of those predictions and I'll come back in the future (6 m
  - [ ]  Governments will monitor everything you do online and control all financial transactions.   
 	 >Like they're not already doing it. 
  - [ ]  AI will be used to predict behavior and “guide” people (e.g., prevent buying cigarettes or drugs).  
+	 it already does. 
  - [ ]  The system will become more authoritarian as young people stop believing the old “shadows” (mainstream narratives).  
 
 ---
 
 ### Predictions about global conflict & World War III
 
- - [ ]  The current Iran war can only lead to World War III (80‑90% probability).  
+ - [ ]  The current Iran war can only lead to World War III (80‑90% probability). 
+	 > another really bold claim. No one knows for sure but 80-90%? I don't think so. 
  - [ ]  The US wants to control all strategic maritime choke points (Strait of Hormuz, Strait of Malacca, Panama Canal, Greenland, Gibraltar).  
  - [ ]  The US will deplete the world’s energy inventory to force everyone to buy American energy. 
  - [ ]  Russia will arm its shuttle fleet (1,000 tankers) to evade US blockades.  
@@ -140,6 +147,7 @@ I'm keeping this list of those predictions and I'll come back in the future (6 m
  - [ ]  Without fertilizer, the world can sustain at most 2 billion people; the other 6 billion will migrate.  
  - [ ]  A global refugee crisis will happen, with millions flooding from Africa, the Middle East, and South America.  
  - [ ]  The coming crisis will resemble the Bronze Age collapse (earthquakes, famines, climate crisis, wars, civil wars, revolutions, and sea peoples).  
+	 > honesty, I don't see the connection
 
 ---
 
@@ -167,7 +175,8 @@ I'm keeping this list of those predictions and I'll come back in the future (6 m
 
 ### Predictions about Iran’s grand strategy
 
- - [ ]  Iran’s grand strategy: unite the Muslim world under its leadership.  
+ - [ ]  Iran’s grand strategy: unite the Muslim world under its leadership. 
+	 >again, the Shi'a Sunni division wouldn't make it possible.
  - [ ]  Iran’s attack vectors: proxies (Hezbollah, Hamas, Houthis), asymmetrical warfare (drones/missiles), and geography (mountain fortress).  
  - [ ]  Iran’s political leadership wants to wait out Trump (hope Democrats win midterms and impeach him).  
  - [ ]  The IRGC (Islamic Revolutionary Guard Corps) sees the war as a religious crusade and will not surrender easily.  
@@ -235,3 +244,5 @@ I'm keeping this list of those predictions and I'll come back in the future (6 m
  - [ ]  Christian Zionists in the US (Christians, not Jews) support the Greater Israel Project for religious reasons.  
  - [ ]  The Gaza conflict is partly supported by Christian Zionists.  
  - [ ]  North Korea has sent thousands of soldiers to fight for Russia in Ukraine; they fight to the death because their families will be killed if they are captured.
+
+[^1]: just checked online, he's not even a real professor, this is a massive red flag there
