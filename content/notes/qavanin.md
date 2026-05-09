@@ -25,8 +25,8 @@ date: 2026-04-24
 بعد با کمک ai سعی کردم خودم از اول بسازم و compile کنم. خیلی جالب نشد (عکس دوم) و همون روش قبلی بهتر بود. 
 
 <div style="display: flex; flex-wrap: wrap; gap: 16px; justify-content: center; margin-top: 16px;">
-  <img src="qavanin.jpg" alt="qavanin" style="max-width: 100%; height: auto; width: 300px; border-radius: 8px;">
-  <img src="qavanin1.jpg" alt="qavanin1" style="max-width: 100%; height: auto; width: 300px; border-radius: 8px;">
+  <img src="qavanin.webp" alt="qavanin" style="max-width: 100%; height: auto; width: 300px; border-radius: 8px;">
+  <img src="qavanin1.webp" alt="qavanin1" style="max-width: 100%; height: auto; width: 300px; border-radius: 8px;">
 </div>
 
 تجربه خوبی بود ولی بدون اینترنت واقعا هر مرحله‌ش زجرآور بود. شاید بعد اینکه اینترنتو وصل کردن ادامه دادم.

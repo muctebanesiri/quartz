@@ -58,7 +58,7 @@ I'm keeping this list of those predictions and I'll come back in the future (6 m
  - [ ]  The US will strangle Tehran by attacking power plants, reservoirs, and railways – denying water, electricity, and food.  
  - [ ]  Israel is trying to drag out the war to destroy all its major enemies in the Middle East.  
  - [ ]  After Iran, Turkey is next.  
-	>Next for what? US/Israel invasion? I really doubt it. Turkey is posing no direct threat to the US nor Israel, so why would you invade a country which has one of the strongest armies in NATO if there is no existential threat? Is it likely, though? maybe. 
+	>Next for what? US/Israel invasion? I really doubt it. Turkey is posing no direct threat to the US nor Israel, so why would you invade a country which has one of the strongest armies in NATO if there is no existential threat? Is it likely, though? maybe, no one can say for sure.
  - [ ]  Once the US leaves the Middle East, Israel will achieve the “Greater Israel Project” (from the Nile to the Euphrates, including parts of Egypt, Saudi Arabia, Lebanon, Syria, Jordan, Turkey).  
 
 ---
@@ -79,8 +79,8 @@ I'm keeping this list of those predictions and I'll come back in the future (6 m
  - [ ]  China will use the Belt and Road railway system to reinforce Iran from the east.  
  - [ ]  Russia and China will provide unlimited financing to Iran.  
  - [ ]  The US will try to topple the Russian government because Russia is the main backer of Iran.  
- - [ ]  Once the Americans consolidate bases in Azerbaijan, Uzbekistan, etc., they can attack Russia from the south. 
-	 > I really hate this kind of manipulation. THIS IS NOT A PREDICTION. You can't predict the weather saying "once there are enough cloud it will rain" 
+ - [ ]  Once the Americans consolidate bases in Azerbaijan, Uzbekistan, etc., they attack Russia from the south. 
+	 > I really hate this kind of manipulation. THIS IS NOT A PREDICTION. You can't predict the weather saying "once there are enough cloud it's gonna rain" 
 
 ---
 
@@ -100,10 +100,9 @@ I'm keeping this list of those predictions and I'll come back in the future (6 m
  - [ ]  East Asia will break out into conflict.  
  - [ ]  First flashpoint: Taiwan – Japan will fight to prevent China‑Taiwan unification because Japan depends on the Strait of Malacca for resources.  
  - [ ]  Second flashpoint: Strait of Malacca – the US wants to control it; China sees it as key to its economic survival. 
-	 >the US does not want to control strait of Malacca, it already controls it.
  - [ ]  Third flashpoint: North Korea – with the world distracted, North Korea will create havoc.  
  - [ ]  North Korea can flatten Seoul with artillery in 20 minutes. 
-	 >This is actually possible. Seoul is dangerously close to North Korea and in the last Korean war North Korea actually started by capturing the capital and then going for the whole peninsula.
+	 >This is actually possible. Seoul is dangerously close to North Korea and in the last Korean war, North Korea actually started the war by capturing the capital and then going for the whole peninsula.
  - [ ]  North Korea will extort South Korea (threaten to destroy Seoul in exchange for bribes).  
  - [ ]  The US is cannibalizing its forces in South Korea and Japan to maintain the war in the Middle East (e.g., moving THAAD systems).
 
