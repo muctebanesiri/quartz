@@ -411,14 +411,36 @@ export async function handleBuild(argv) {
         res.end()
       }
 
+      const outputRoot = path.resolve(argv.output)
       let fp = req.url?.split("?")[0] ?? "/"
+      try {
+        fp = decodeURIComponent(fp)
+      } catch {
+        res.writeHead(400)
+        res.end()
+        return
+      }
+      fp = path.posix.normalize(fp)
+      if (!fp.startsWith("/")) {
+        fp = "/" + fp
+      }
+
+      const resolveUnderOutput = (urlPath) => {
+        const relativePath = urlPath.replace(/^\/+/, "")
+        const resolvedPath = path.resolve(outputRoot, relativePath)
+        if (resolvedPath !== outputRoot && !resolvedPath.startsWith(outputRoot + path.sep)) {
+          return null
+        }
+        return resolvedPath
+      }
 
       // handle redirects
       if (fp.endsWith("/")) {
         // /trailing/
         // does /trailing/index.html exist? if so, serve it
         const indexFp = path.posix.join(fp, "index.html")
-        if (fs.existsSync(path.posix.join(argv.output, indexFp))) {
+        const indexPath = resolveUnderOutput(indexFp)
+        if (indexPath && fs.existsSync(indexPath)) {
           req.url = fp
           return serve()
         }
@@ -428,7 +450,8 @@ export async function handleBuild(argv) {
         if (path.extname(base) === "") {
           base += ".html"
         }
-        if (fs.existsSync(path.posix.join(argv.output, base))) {
+        const basePath = resolveUnderOutput(base)
+        if (basePath && fs.existsSync(basePath)) {
           return redirect(fp.slice(0, -1))
         }
       } else {
@@ -438,14 +461,16 @@ export async function handleBuild(argv) {
         if (path.extname(base) === "") {
           base += ".html"
         }
-        if (fs.existsSync(path.posix.join(argv.output, base))) {
+        const basePath = resolveUnderOutput(base)
+        if (basePath && fs.existsSync(basePath)) {
           req.url = fp
           return serve()
         }
 
         // does /regular/index.html exist? if so, redirect to /regular/
         let indexFp = path.posix.join(fp, "index.html")
-        if (fs.existsSync(path.posix.join(argv.output, indexFp))) {
+        const indexPath = resolveUnderOutput(indexFp)
+        if (indexPath && fs.existsSync(indexPath)) {
           return redirect(fp + "/")
         }
       }
