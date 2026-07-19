@@ -424,6 +424,14 @@ export async function handleBuild(argv) {
       if (!fp.startsWith("/")) {
         fp = "/" + fp
       }
+      const pathSegments = fp.split("/")
+      const hasParentTraversal = pathSegments.some((segment) => segment === "..")
+      const hasInvalidChars = fp.includes("\0") || fp.includes("\\")
+      if (hasParentTraversal || hasInvalidChars) {
+        res.writeHead(400)
+        res.end()
+        return
+      }
 
       const resolveUnderOutput = (urlPath) => {
         const relativePath = urlPath.replace(/^\/+/, "")
