@@ -436,7 +436,22 @@ export async function handleBuild(argv) {
       const resolveUnderOutput = (urlPath) => {
         const relativePath = urlPath.replace(/^\/+/, "")
         const resolvedPath = path.resolve(outputRoot, relativePath)
-        if (resolvedPath !== outputRoot && !resolvedPath.startsWith(outputRoot + path.sep)) {
+
+        let canonicalRoot = outputRoot
+        let canonicalPath = resolvedPath
+        try {
+          canonicalRoot = fs.realpathSync.native(outputRoot)
+        } catch {
+          // keep resolved root if real path cannot be determined
+        }
+        try {
+          canonicalPath = fs.realpathSync.native(resolvedPath)
+        } catch {
+          // keep resolved candidate path if it does not exist yet
+        }
+
+        const rel = path.relative(canonicalRoot, canonicalPath)
+        if (rel === ".." || rel.startsWith(`..${path.sep}`) || path.isAbsolute(rel)) {
           return null
         }
         return resolvedPath
