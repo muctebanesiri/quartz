@@ -437,12 +437,22 @@ export async function handleBuild(argv) {
         const relativePath = urlPath.replace(/^\/+/, "")
         const resolvedPath = path.resolve(outputRoot, relativePath)
 
-        let canonicalRoot = outputRoot
+        const normalizedRoot = path.resolve(outputRoot)
+        const relFromRoot = path.relative(normalizedRoot, resolvedPath)
+        if (
+          relFromRoot === ".." ||
+          relFromRoot.startsWith(`..${path.sep}`) ||
+          path.isAbsolute(relFromRoot)
+        ) {
+          return null
+        }
+
+        let canonicalRoot = normalizedRoot
         let canonicalPath = resolvedPath
         try {
-          canonicalRoot = fs.realpathSync.native(outputRoot)
+          canonicalRoot = fs.realpathSync.native(normalizedRoot)
         } catch {
-          // keep resolved root if real path cannot be determined
+          // keep normalized root if real path cannot be determined
         }
         try {
           canonicalPath = fs.realpathSync.native(resolvedPath)
@@ -454,7 +464,7 @@ export async function handleBuild(argv) {
         if (rel === ".." || rel.startsWith(`..${path.sep}`) || path.isAbsolute(rel)) {
           return null
         }
-        return resolvedPath
+        return canonicalPath
       }
 
       // handle redirects
