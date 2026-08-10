@@ -5,6 +5,6 @@ title: Mücteba
 
 Hello, web-surfer! I am Mücteba, and this is my place on the internet, where I generally share whatever I consider worth sharing.
 
-I'm currently hosting the [Pişikyolu Podcast](https://fm.mucteba.ir) and doing other [projects](https://git.mucteba.ir)
+I'm currently hosting [Pişikyolu Podcast](https://fm.mucteba.ir) and doing other [projects](https://git.mucteba.ir)
 
 

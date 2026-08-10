@@ -264,4 +264,4 @@ Run it: `./revert_android_tweaks.sh`
 - The exclamation mark on my SIM card and Wi‑Fi did **not** disappear immediately after running `captive_portal_mode 0` – I had to toggle **Airplane Mode** once. After that, both icons were clean.
 
 *Last updated: 2026-05-08*  
-*Device: Xiaomi Poco M3 / LineageOS*
+*Device: Android / LineageOS*
