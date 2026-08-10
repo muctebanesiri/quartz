@@ -1,13 +1,13 @@
 ---
 title: "My Android ADB Tuning Guide: What I Changed, Why, and How to Undo It"
-description: After setting up Radicale on my Arch Linux machine and facing the dreaded “no internet” exclamation mark (on both Wi‑Fi and mobile data), I decided to take control of my **Xiaomi Poco M3 running LineageOS** using ADB.  Below is a complete log of every `adb shell settings put` command I ran, what it actually does, and – most importantly – how to revert each change to the default Android behaviour.
+description: After setting up Radicale on my Arch Linux machine and facing the dreaded “no internet” exclamation mark (on both Wi‑Fi and mobile data), I decided to take control of my **Android running LineageOS** using ADB.  Below is a complete log of every `adb shell settings put` command I ran, what it actually does, and – most importantly – how to revert each change to the default Android behaviour.
 keywords: Adb,
 draft: false
 tags:
   - adb
 date:
 ---
-> [!danger] This article is ai generated as reference only. 
+> [!danger] This article is ai generated for reference only. 
 
 After setting up Radicale on my Arch Linux machine and facing the dreaded “no internet” exclamation mark (on both Wi‑Fi and mobile data), I decided to take control of my **Android running LineageOS** using ADB.  
 Below is a complete log of every `adb shell settings put` command I ran, what it actually does, and – most importantly – how to revert each change to the default Android behaviour.
