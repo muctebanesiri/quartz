@@ -1,3 +1,12 @@
+---
+title:
+description:
+keywords:
+draft: true
+tags:
+date:
+---
+
 **CODEX VITAE**
 *The Personal Code of the Sovereign Self*
 

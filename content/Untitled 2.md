@@ -6,6 +6,7 @@ day:
 sleep-hours: 9
 morning-weight:
 liq-raw:
+draft: true
 ---
 # 🛡️ MORNING PROTOCOL
 *Rise, orient, commit.*
