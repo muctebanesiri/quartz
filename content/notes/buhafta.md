@@ -1,6 +1,6 @@
 ---
 title: بو هفته
-description:
+description: بو هفته بلکه یاشادیغیم لاپ چتین هفته ایدی او هفته‌لردن کی بیلمیردیم ساباهی نولاجاق، هاردا اولاجام و... ولی خب گئچدی. و نسبتا ده یاخجی گئچدی. بوجور شرایط ده داها چوخ whatever doesn't kill you makes you stranger جمله‌سینه فیکیرلشیرم و منه امید وریر. لزوما stronger اولماسام دا حتما stranger اولورام.
 keywords:
 draft: false
 tags:
