@@ -22,12 +22,26 @@
             }
           },
           {
-            "id": "9957f314a33f9814",
+            "id": "e8546f4eba48a6e4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "pisikyolu/Selfhosting.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Selfhosting"
+            }
+          },
+          {
+            "id": "ffb37f3a95216a1f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "pisikyolu/Untitled.md",
                 "mode": "source",
                 "source": false
               },
@@ -36,21 +50,21 @@
             }
           },
           {
-            "id": "e8546f4eba48a6e4",
+            "id": "55eabcfae9727c20",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "pisikyolu/algorithms.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "algorithms"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -85,7 +99,7 @@
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": false,
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -201,36 +215,39 @@
       "obsidian-livesync:Show Customization sync": false
     }
   },
-  "active": "e8546f4eba48a6e4",
+  "active": "55eabcfae9727c20",
   "lastOpenFiles": [
-    "Untitled 1.md",
-    "offline/اعتیاد.md",
-    "offline/باخدیغیم فیلملر.md",
-    "offline/Untitled 2 2.md",
-    "notes/buhafta.md",
-    "notes/buhafta.md",
-    "notes/Audacity.md",
+    "offline/Untitled 8.md",
     "notes/musicasacopingstrategy.md",
-    "notes/Hypothetical tattoos.md",
-    "offline/Journal/2026-09-06.md",
-    "offline/mj/Archive/Audacity.md",
+    "offline/Clippings 3/سامانه خرید اینترنتی کارت اعتباری سازمان سنجش آموزش کشور.md",
+    "offline/Journal/2026-10-08.md",
+    "offline/Journal/2026-10-09.md",
+    "offline/Journal/2026-10-07.md",
+    "offline/Journal/2026-10-15.md",
+    "offline/Journal/2026-10-11.md",
+    "offline/Journal/2026-10-12.md",
+    "offline/Journal/2026-10-14.md",
+    "offline/Journal/2026-10-13.md",
+    "offline/Journal/2026-10-17.md",
+    "offline/Journal/2026-10-16.md",
+    "offline/Journal/2026-10-05.md",
+    "offline/Journal/2026-09-30.md",
+    "offline/Journal/2026-09-29.md",
+    "offline/Journal/2026-09-25.md",
+    "offline/Clippings 2/ثبت‌نام آزمون پذیرش متقاضیان پروانه کارآموزی وكالت كانون‌هاي وكلاي دادگستري جمهوری اسلامی ايران سال 1405.md",
+    "offline/Clippings 3",
+    "offline/Clippings 2/سامانه خرید اینترنتی کارت اعتباری سازمان سنجش آموزش کشور 1.md",
+    "offline/Clippings 2/سامانه خرید اینترنتی کارت اعتباری سازمان سنجش آموزش کشور.md",
+    "offline/Clippings 1/سامانه خرید اینترنتی کارت اعتباری سازمان سنجش آموزش کشور 1.md",
+    "offline/Clippings 2",
+    "pisikyolu/algorithms.md",
+    "offline/Clippings 1",
+    "pisikyolu/Selfhosting.md",
     "pisikyolu/Ffmpeg presentation.md",
-    "offline/mj/Untitled 1.md",
-    "offline/the nyt top movies of 21st century list.md",
-    "offline/Journal/2026-09-05.md",
-    "Untitled.md",
-    "contact.md",
-    "Untitled",
-    "offline/Untitled 6.md",
-    "offline/Journal/2026-09-04.md",
-    "offline/Journal/2026-09-03.md",
-    "index.md",
-    "offline/Untitled 1 1.md",
-    "offline/Journal/2026-09-02.md",
-    "offline/terminal commands.md",
-    "offline/Untitled.md",
-    "offline/Untitled 1.md",
     "pisikyolu/Selfhosting.md.pdf",
+    "offline/پیشیه یولو ایده‌لری.md",
+    "offline/Journal/2026-09-23.md",
+    "Untitled",
     "Ffmpeg.md.pdf",
     "ffmpeg.png",
     "ffmpeg.svg",
