@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pisikyolu/algorithms.md",
+                "file": "about.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "algorithms"
+              "title": "about"
             }
           }
         ],
@@ -215,8 +215,12 @@
       "obsidian-livesync:Show Customization sync": false
     }
   },
-  "active": "55eabcfae9727c20",
+  "active": "851a01c9760d08ab",
   "lastOpenFiles": [
+    "contact.md",
+    "index.md",
+    "pisikyolu/Selfhosting.md.pdf",
+    "pisikyolu/algorithms.md",
     "offline/Untitled 8.md",
     "notes/musicasacopingstrategy.md",
     "offline/Clippings 3/سامانه خرید اینترنتی کارت اعتباری سازمان سنجش آموزش کشور.md",
@@ -240,13 +244,9 @@
     "offline/Clippings 2/سامانه خرید اینترنتی کارت اعتباری سازمان سنجش آموزش کشور.md",
     "offline/Clippings 1/سامانه خرید اینترنتی کارت اعتباری سازمان سنجش آموزش کشور 1.md",
     "offline/Clippings 2",
-    "pisikyolu/algorithms.md",
     "offline/Clippings 1",
     "pisikyolu/Selfhosting.md",
     "pisikyolu/Ffmpeg presentation.md",
-    "pisikyolu/Selfhosting.md.pdf",
-    "offline/پیشیه یولو ایده‌لری.md",
-    "offline/Journal/2026-09-23.md",
     "Untitled",
     "Ffmpeg.md.pdf",
     "ffmpeg.png",
