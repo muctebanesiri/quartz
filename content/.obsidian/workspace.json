@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "about.md",
-                "mode": "source",
+                "file": "notes/tattoos.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "about"
+              "title": "tattoos"
             }
           }
         ],
@@ -215,14 +215,22 @@
       "obsidian-livesync:Show Customization sync": false
     }
   },
-  "active": "851a01c9760d08ab",
+  "active": "55eabcfae9727c20",
   "lastOpenFiles": [
+    "notes/musicasacopingstrategy.md",
+    "notes/tattoos.md",
+    "about.md",
+    "offline/Journal/2026-10-25.md",
+    "offline/Journal/2026-10-21.md",
+    "offline/Journal/2026-10-18.md",
+    "offline/Journal/2026-10-23.md",
+    "offline/Journal/2026-10-19.md",
+    "offline/اشاغی تعمیر و اجاره‌سی.md",
     "contact.md",
     "index.md",
     "pisikyolu/Selfhosting.md.pdf",
     "pisikyolu/algorithms.md",
     "offline/Untitled 8.md",
-    "notes/musicasacopingstrategy.md",
     "offline/Clippings 3/سامانه خرید اینترنتی کارت اعتباری سازمان سنجش آموزش کشور.md",
     "offline/Journal/2026-10-08.md",
     "offline/Journal/2026-10-09.md",
@@ -236,17 +244,9 @@
     "offline/Journal/2026-10-16.md",
     "offline/Journal/2026-10-05.md",
     "offline/Journal/2026-09-30.md",
-    "offline/Journal/2026-09-29.md",
-    "offline/Journal/2026-09-25.md",
-    "offline/Clippings 2/ثبت‌نام آزمون پذیرش متقاضیان پروانه کارآموزی وكالت كانون‌هاي وكلاي دادگستري جمهوری اسلامی ايران سال 1405.md",
     "offline/Clippings 3",
-    "offline/Clippings 2/سامانه خرید اینترنتی کارت اعتباری سازمان سنجش آموزش کشور 1.md",
-    "offline/Clippings 2/سامانه خرید اینترنتی کارت اعتباری سازمان سنجش آموزش کشور.md",
-    "offline/Clippings 1/سامانه خرید اینترنتی کارت اعتباری سازمان سنجش آموزش کشور 1.md",
     "offline/Clippings 2",
     "offline/Clippings 1",
-    "pisikyolu/Selfhosting.md",
-    "pisikyolu/Ffmpeg presentation.md",
     "Untitled",
     "Ffmpeg.md.pdf",
     "ffmpeg.png",
