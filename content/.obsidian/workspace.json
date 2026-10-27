@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/socialmedia.md",
+                "file": "literature/hallaj.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "socialmedia"
+              "title": "hallaj"
             }
           }
         ],
@@ -217,9 +217,11 @@
   },
   "active": "55eabcfae9727c20",
   "lastOpenFiles": [
+    "notes/socialmedia.md",
+    "literature/hallaj.md",
+    "literature/saeb.md",
     "offline/Journal/2026-10-26.md",
     "notes/tattoos.md",
-    "notes/socialmedia.md",
     "notes/musicasacopingstrategy.md",
     "about.md",
     "offline/Journal/2026-10-25.md",
@@ -242,8 +244,6 @@
     "offline/Journal/2026-10-12.md",
     "offline/Journal/2026-10-14.md",
     "offline/Journal/2026-10-13.md",
-    "offline/Journal/2026-10-17.md",
-    "offline/Journal/2026-10-16.md",
     "offline/Clippings 3",
     "offline/Clippings 2",
     "offline/Clippings 1",
