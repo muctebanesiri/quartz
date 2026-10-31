@@ -7,23 +7,23 @@ tags:
   - بئله-وضعیتین-ایچینه-سوخوم
 date:
 ---
-Someday I’ll convince myself to get a tattoo, and I’m keeping this list of my favorite sentences to choose from then.
+Someday I’ll convince myself to get a tattoo, and I’m keeping this list of my favorite lines to choose from then.
 
 > بئله وضعیتین ایچینه سوخوم
 
-My absolute favorite sentence ever. I don’t know how I managed to like it, but here I am.
+My absolute favorite line ever. I don’t know how I managed to like it, but here I am.
 
 > elin adamı ne anlar senden?
 
-My favorite line from Yalnızlık by Yaşar Kemal.
+My favorite line from Yalnızlık by Yaşar Kemal. I'll even risk tattooing the whole poem :)
 
 > O Fortuna, velut luna, statu variabilis
 
-I’ve never read a better poem.
+I’ve never read a better poem. 
 
 > ناخواسته زندگی و ناخواسته مرگ
 
-My own translation of Fernando Pessoa.
+My own translation of a cool line by Fernando Pessoa.
 
 > بیمه آغام شوپنهاور
 
@@ -33,3 +33,5 @@ My own translation of Fernando Pessoa.
 
 > سن بو نشانلا بیل منی
 > بیل کی نشانه سیغمازام
+
+another cool line from Nasimi

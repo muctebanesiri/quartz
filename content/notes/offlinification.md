@@ -13,4 +13,4 @@ It’s been some years since I decided to keep whatever I use online – at leas
 
 But – and this is a really big but – in countries like Iran, where we had 3 internet blackouts in a single year, you’d better think twice.
 
-I call it “offlinification.” The tool I use most is **Kiwix** ([kiwix.org](https://kiwix.org)). It lets you download Wikipedia, medical guides, documentation, and more – and browse them completely offline, no internet required. Full Wikipedia fits on a cheap USB drive.
+I call it “offlinification.” The tool I use most is **Kiwix** ([kiwix.org](https://kiwix.org)). It lets you download Wikipedia, medical guides, documentation, and more and browse them completely offline, no internet required. Full Wikipedia easily fits on a cheap USB drive.

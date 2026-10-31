@@ -70,7 +70,7 @@ For everyone else, please continue reading…
 
 
 > [!danger]
-> I'm not that literate about these donts on health. i'll come back to this part when i have enough knowledge to judge.
+> I'm not that literate about these donts on health. I'll come back to this part when i have enough knowledge to judge.
 
 ## Health
 
