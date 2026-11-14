@@ -2,7 +2,7 @@
 title: Hypothetical tattoos
 description: Someday I'll convince myself to get a tattoo and I'm keeping this list of my top favorite sentences to choose from then.
 keywords:
-draft: false
+draft: true
 tags:
   - بئله-وضعیتین-ایچینه-سوخوم
 date:
